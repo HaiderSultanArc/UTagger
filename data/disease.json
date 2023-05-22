@@ -1,0 +1,3273 @@
+{
+    "diseases": [
+        {
+            "disease_eng": [
+                "Stye/Hordeolu"
+            ],
+            "disease_persian": [
+                "Sha‘īr"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "inflammation of eyelids appearing at the base of eyelashes",
+                "hard swelling on the eyelid"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "thick and burnt matte",
+                "sanguineous waste produc"
+            ],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "thick and burnt matter and sanguineous waste produc"
+            ],
+            "principle_of_treatment": [
+                "Istifrāgh (Evacuation)",
+                "Tanqiya-i Dimāgh (Cleansing of brain)",
+                "Taskhīn Maqāmī (Local hot fomentation)",
+                "Taqwiyat-i Chashm (Toning up of eyes)"
+            ],
+            "pharmacotherapy": [
+                "Sakbīnaj (Ferula persica, Willd.) dissolved in water to be applied locally.2",
+                "Hot fomentation with any of the following drugs2: Melted fat/Barley flour Q.S. and Qinnab (Cannabis sativa, Linn.)/ decoction of barley seed.",
+                "Tilā-i Arībāsiyūs containing following drugs to be used locally2: Kundur (Boswellia serrata, Roxb.) 1 part, Murr (Commiphora myrrha, Nees.) 1 part, Lāzan (Citrus ladanum) 1/4 part, Wax ½ part, Alum ½ part, Būra Armanī ½ part mixed with sediments of Roghan-i Sosan."
+            ],
+            "comp_drug": [
+                "Ayāraj-i Fayqra2",
+                "Itrīfal Zamānī",
+                "Kuhal Kāfūrī4",
+                "Marham Dākhilyūn",
+                "Shiyāf-i Māmīsa"
+            ],
+            "reg_theropy": [
+                "Fasd (Bloodletting)",
+                "Takmīd Hār (Hot fomentation)",
+                "Fomentation with hot water",
+                "Gharghara (Gargle)"
+            ],
+            "diet_recom": [
+                "Taqlīl-i Ghizā (Dietary control)"
+            ],
+            "diet_restrict": [
+                "Aghziya Mubakhkhira",
+                "Aghziya Saqīla"
+            ],
+            "prevention": []
+        },
+        {
+            "disease_eng": [
+                "Blepheritis"
+            ],
+            "disease_persian": [
+                "Sulāq/ Bāmin"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "eye lids get thickened",
+                "thickening of eye lids especially at the point of canthus",
+                "inflammation and itching at the canthus and the eye lids"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Alkaline secretions",
+                "Corrosive salty secretion"
+            ],
+            "cause_persian": [
+                "Rutūbāt Būraqiyya",
+                "Rutūbat Akkāla Māliha"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Rutūbāt Būraqiyya (Alkaline secretions)",
+                "Rutūbat Akkāla Māliha (Corrosive salty secretion)"
+            ],
+            "principle_of_treatment": [
+                "Istifrāgh (Evacuation) with low potency drug"
+            ],
+            "pharmacotherapy": [
+                "Mā’ al-Fawākih",
+                "Oral administration of decoction of Halayla (Terminalia chebula, Retz.) and Ghārīqūn (Agaricus alba, Linn.)",
+                "Infusion of Sumāq (Rhus coriaria, Linn.) and rose water to be used as eye drop",
+                "Paste containing following ingredients to be applied on eye lids2: Khurfa (Portulaca oleracea, Linn.), Barg-i Kāsnī (Cichorium intybus, Linn.), Roghan-i Gul",
+                "Paste containing following ingredients to be applied on eye lids2: Shahm al-Rummān (Fruit pulp of Punica granatum, Linn.), ‘Adas Muqashshar (Dehusked seed of Lens culinaris, Medic.), with any suitable medium"
+            ],
+            "comp_drug": [
+                "Shiyāf Ahmar Layyin1",
+                "Barūd-i Hasram",
+                "Shiyāf Abyaz",
+                "Bādiyān",
+                "Kuhl al-Jawāhir"
+            ],
+            "reg_theropy": [
+                "Fasd (Bloodletting) through cephalic vein and vein of forehead",
+                "Hijāma (Cupping) on calf muscles and shoulders",
+                "Fomentation with hot water on eyes",
+                "Exposure to steam"
+            ],
+            "diet_recom": [
+                "Mā’ al-Fawākih",
+                "Mīfakhtaj"
+            ],
+            "diet_restrict": [
+                "Diets that produce Khilt Hādd (Hot humours) to be avoided"
+            ],
+            "prevention": []
+        },
+        {
+            "disease_eng": [
+                "Stomatiti"
+            ],
+            "disease_persian": [
+                "Qulā‘"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "diffused ulceration of oral mucos",
+                "bad breat",
+                "presence of pai",
+                "rednes",
+                "hea",
+                "inflamed oral mucosa in case of Qulā‘ Damaw",
+                "signs and symptom_engs of Waram Rakhw (Soft swelling",
+                "thickened mucosa in case of Qulā‘ Balgham",
+                "blackish tongue",
+                "pai",
+                "crusting and burning sensation in case of Qulā‘ Sawdāw"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [
+                "Hummā Wabā’iyya"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "predominance of any of four humour",
+                "indigestio",
+                "uncongenial quality of mother’s milk",
+                "childhoo",
+                "rainy seaso",
+                "Hummā Wabā’iyya (Epidemic fever",
+                "Epidemic feve"
+            ],
+            "principle_of_treatment": [
+                "Tanqiya-i Badan (Evacuation of body)",
+                "Indimāl-i Qurūh (Healing) after Tanqiya-i Badan."
+            ],
+            "pharmacotherapy": [
+                "Joshānda-i Halayla in case of Qulā‘ Safrāw",
+                "Joshānda-i Aftīmūn for Tanqiya in Qulā‘ Sawdāwī followed by local application of Mukhkh al-‘Izām (Bone marrow) and mastication of Barg-i Hinnā (Lawsonia inermis, Linn.)",
+                "Mazmaza (Rinse) with decoction of Sumāq (Rhus coriaria, Linn.) and vinegar in case of Qulā‘ Damawī",
+                "Mazmaza (Rinse) with decoction of vinegar, Māmīrān (Thalictarum foliolosum, DC.), Halayla (Terminalia chebula, Retz.) and ‘Āqarqarhā (Anacyclus pyrethrum, DC.) in case of Qulā‘ Balghamī",
+                "Mazmaza (Rinse) with Nawshādar (Sal ammoniac), Shibb (Alum),Namak Khurdanī (Sodium chloride) mixed in vinegar in case of Qulā‘ Damawī o Safrāwī",
+                "Zarūr (Sprinkle) with powder of following drugs 1:Shibb (Alum) and Māzū (Quercus infectoria, Oliv.)"
+            ],
+            "comp_drug": [
+                "Qulā‘ Balghamī",
+                "Zarūr-i Kat",
+                "Zarūr-i Qulā",
+                "Qulā‘"
+            ],
+            "reg_theropy": [
+                "Fasd-i Qīfāl (Bloodletting through cephalic vein",
+                "Fasd-i Chahār Rag (Bloodletting through superior and inferior labial veins"
+            ],
+            "diet_recom": [
+                "Aghziya Bārida in case of Qulā‘ Damawī o Safrāwī",
+                "Pomegranate juic",
+                "Aghziya Sāliha (Diets that produce good humours) for lactating mothe"
+            ],
+            "diet_restrict": [
+                "Mea",
+                "Muwallid-i Sawdā Aghziya (Diets that produce black bile) for lactating mothe"
+            ],
+            "prevention": [
+                "Roghaniyāt (Oils) to be avoided except those having astringent propert"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Toothach"
+            ],
+            "disease_persian": [
+                "Waja‘-i Asnā"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "pain in and around a toot",
+                "pai"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Hot, cold and dry morbid temperamen",
+                "Organic morbid temperamen"
+            ],
+            "cause_persian": [
+                "Sū’-i Mizāj Hār o Bārid o Yābi",
+                "Sū’-i Mizāj Māddī"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Sū’-i Mizāj Hār o Bārid o Yābis (Hot, cold and dry morbid temperament",
+                "Sū’-i Mizāj Māddī (Organic morbid temperament",
+                "Sū’-i Mizāj Māddī may be either due to predominance of humours or their viciousness, thickness or sharpnes"
+            ],
+            "principle_of_treatment": [
+                "Taskīn-i Dard (Analgesia",
+                "Tanqiya-i ‘Azw o Badan(Evacuation of related organs and the whole body",
+                "Tabrīd (Cooling) when caused by Sū’-i Mizāj Hā"
+            ],
+            "pharmacotherapy": [
+                "Mazmaza (Rinse) with decoction of the following drugs2: Pudīna (Mentha arvensis, Linn.), ‘Āqarqarhā (Anacyclus pyrethrum, DC.), Sa‘tar (Zataria multiflora, Boiss.) boiled in vinegar (When caused by Sū’-i Mizāj Bārid)",
+                "Mazmaza (Rinse) with decoction of the following drugs2:  Kundush (Dregea volubilis, Benth.) 1 part, Asl al-Sūs (Glycyrrhiza glabra, Linn.) 1 part, Zar-i Ward (Stamens of Rosa damascena, Mill.) 2 parts (When caused by Sū’-i Mizāj Bārid)",
+                "Mazmaza (Rinse) with decoction of the following drugs to relieve the pain2: Koknār (Rind of Papaver somniferum, Linn.), Filfil Siyāh (Piper nigrum, Linn.",
+                "Holding the mixture of vinegar and rose water in mouth (When caused by Sū’-i Mizāj Hār",
+                "Mazmaza (Rinse) with lukewarm mixture of Kāfūr (Cinnamomum camphora, Nees.), vinegar and rose water (When caused by Sū’-i Mizāj Hār",
+                "Tadkhīn (Fumigation) of the tooth having dental carries with the following drugs2: Tukhm-i Gandanā (Allium ampeloprasum, Linn.), Tukhm-i Piyāz (Allium cepa, Linn.), Lehsan (Allium sativum, Linn.), Tukhm-i Mūlī (Raphanus sativus, Linn.) mixed with wax, burnt and fumigated using a funnel shaped instrument"
+            ],
+            "comp_drug": [
+                "Sanūn-i Mughīlā",
+                "Sanūn Kalā",
+                "Tiryāq-i Asnā",
+                "Sanūn Khā"
+            ],
+            "reg_theropy": [
+                "Fasd-i Qīfāl (Bloodletting through cephalic vein",
+                "Ishāl (Purgation)",
+                "Mazmaza (Rinse",
+                "Gharghara (Gargle",
+                "Tadkhīn (Fumigation"
+            ],
+            "diet_recom": [
+                "Aghziya Hārra (If caused by Sū’-i Mizāj Bārid",
+                "Aghziya Bārida (If caused by Sū’-i Mizāj Hār",
+                "Aghziya Sāliha (Diets that produce good humours) for lactating mothe"
+            ],
+            "diet_restrict": [
+                "Sweet diets",
+                "Aghziya Ghalīz",
+                "Aghziya Mubakkhir"
+            ],
+            "prevention": [
+                "Use of Muhāfiz-i Dandān Adwiya (Tooth protecting drugs"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Gingiviti"
+            ],
+            "disease_persian": [
+                "Waram-i Liss"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "waste products coming from head falls on the gums resulting in their inflammatio",
+                "change in the appearance and the consistency of gums (feeling on touch",
+                "throbbing pain in case of Damawī (Sanguineous)",
+                "severe pai",
+                "rednes",
+                "burning sensatio",
+                "relief with the use of cold things in case of Safrāwī (Bilious) while whitish appearance of gums and relative coldness on touch in case of Balghamī Mawād (Phlegmatic matter"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Sanguineou",
+                "Biliou",
+                "Phlegmati"
+            ],
+            "cause_persian": [
+                "Damaw",
+                "Safrāw",
+                "Balgham"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Damawī (Sanguineous",
+                "Safrāwī (Bilious",
+                "Balghamī (Phlegmatic) Mawād (Matter",
+                "involvement of factors that arise from stomac"
+            ],
+            "principle_of_treatment": [
+                "Istifrāgh-i Mādda (Evacuation of causative matter",
+                "Tanqiya-i Badan (Evacuation of whole body",
+                "Tahlīl-i Waram (Resolution of swelling"
+            ],
+            "pharmacotherapy": [
+                "Mazmaza (Rinse) with the decoction of rind of Papaver somniferum, Linn. as analgesi",
+                "Joshānda-i Halayla for Istifrāgh in case of Waram Hā",
+                "Mazmaza (Rinse) with the following decoction in case of Safrāwī Mawād (Bilious matter)2:Ās (Myrtus communis, Linn.) and Usūl-i ‘Inab al-Sa‘lab (Roots of Solanum nigrum, Linn.) in sufficient quantity of vinegar",
+                "Mazmaza (Rinse) with the mixture of olive oil and honey for softening in case of Balghamī Mawād (Phlegmatic Matter), followed by Mazmaza (Rinse) with the decoction containing resolvent drugs viz. Nākhūna (Trigonella uncata, Boiss.), Bābūna (Matricaria chamomilla, Linn.), Marzanjosh (Origanum vulgare, Linn.), Hulba (Seed of Trigonella foenum-graeceum, Linn.) and Tukhm-i Katān (Linum usitatissimum, Linn.).",
+                "Mazmaza (Rinse) with the mixture of Sumāq (Rhus coriaria, Linn.) with rose water in case of Waram Hār",
+                "Paste containing common salt and honey to be used locally on gums in childre",
+                "Following Sanūn (Tooth powder) may be used3: Suhāga Biryān (Roasted borax), Māzū Sabz (Quercus infectoria, Oliv.) and Kabāb Chīnī (Piper cubeba, Linn.), each in equal proportion to be powdered and used"
+            ],
+            "comp_drug": [
+                "Sanūn-i Tambāk",
+                "Sanūn Zar"
+            ],
+            "reg_theropy": [
+                "Fasd-i Qīfal (Bloodletting through cephalic vein) in case of Waram Hār",
+                "Fasd-i Chahār Rag (Bloodletting through superior and inferior labial veins) in case of Waram Hā",
+                "Kayy (Cauterization",
+                "Mazmaza (Rinse"
+            ],
+            "diet_recom": [
+                "Aghziya Latīf",
+                "Juice of pomegranat",
+                "Use of pomegranate, apple and guav"
+            ],
+            "diet_restrict": [
+                "Aghziya Ghalīz"
+            ],
+            "prevention": [
+                "Flow of secretions from head to the gums to be prevente"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Pyorrhoe"
+            ],
+            "disease_persian": [
+                "Nawāsīr-i Liss"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "suppurative ulcers develop in the gum",
+                "presence of pain, swelling, pustules and ulcers on gum with bleeding and discharge of pu"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "putridit"
+            ],
+            "principle_of_treatment": [
+                "Tanqiya-i Badan (Evacuation of whole body",
+                "Daf‘-i Ta‘affun  (Removal of suppuration",
+                "Tajfīf-i Qarha (Healing of ulcer"
+            ],
+            "pharmacotherapy": [
+                "Joshānda-i Halayl",
+                "Local application of Sanūn (Tooth powder) containing following drugs1:‘Āqarqarhā (Anacyclus pyrethrum, DC.) 1 part, Bekh-i Sosan (Iris florentina, Linn.) 1 part, Sumāq (Rhus coriaria, Linn.) 2 parts, Māzū Ghayr Masqūb (Quercus infectoria, Oliv.) 2 parts, Gulnār (Punica granatum, Linn.) 2 parts, Shibb (Alum) 2 parts",
+                "Mazmaza (Rinse) with decoction of the following drugs1: Vinegar, Barg-i Zaytūn (Olea europea, Linn.)",
+                "Local application of opium mixed with Khall al-Khamr"
+            ],
+            "comp_drug": [
+                "Sanūn Khā",
+                "Marham-i Asfīdā",
+                "Marham-i Murdārsan"
+            ],
+            "reg_theropy": [
+                "Kayy (Cauterization",
+                "Fasd-i Chahār Rag (Bloodletting through superior and inferior labial veins)",
+                "Fasd-i Qīfāl (Bloodletting through cephalic vein",
+                "Hijāma (Cupping) with the cups made of silve"
+            ],
+            "diet_recom": [
+                "Juice of Pomegranat",
+                "Aghziya Mubarrida o Mulattif"
+            ],
+            "diet_restrict": [
+                "Aghziya Hāmiza (Sour diets",
+                "Aghziya Kasīf"
+            ],
+            "prevention": [
+                "Avoid factors that modify Rūh Bāsira (Visual pneuma"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Tonsilliti"
+            ],
+            "disease_persian": [
+                "Waram-i Lawzatayn"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "inflammation of glands lying on both sides of throa",
+                "pain on swallowin",
+                "burning sensation in throa",
+                "feve",
+                "signs of inflammation on and around the glan"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "any of the four humours impregnate the gland"
+            ],
+            "principle_of_treatment": [
+                "Tahlīl-i Waram (Resolution of swelling",
+                "Istifrāgh (Evacuation",
+                "Ilāj bi’l-Yad (Surgery) when the borders of the affected glands are thickene"
+            ],
+            "pharmacotherapy": [
+                "Gharghara (Gargle) with lukewarm wate",
+                "Gharghara (Gargle) with Rubb-i Tūt (Dry extract of Morus indica, Linn.) and Ghawra (Juice of unripe grape",
+                "Gharghara (Gargle) with decoction of the following drugs1: Masūr (Lenses esculenta, Moench.) 5 parts, Gulnār (Punica granatum, Linn.) 5 parts, Shiyāf-i Māmīsa 1 part, Za‘farān (Crocus sativus, Linn.) 1 part, Qust (Saussurea hypoleuca, Spreng) 1 part.The drugs are boiled, filtered and the liquid obtained is mixed with Rubb-i Tūt (Dry extract of Morus indica, Linn.) ½ part and hone",
+                "Gharghara (Gargle) with decoction of the following drugs mixed with Sharbat-i ‘Unnāb 1: Masūr Muqashshar (Dehusked Lenses esculenta, Moench.) 24 gm., Kishnīz Khushk (Dried Coriandrum sativum, Linn.) 24 gm., Tukhm-i Kāsnī (Cichorium intybus, Linn.) 24 gm., Tukhm-i Kāhū (Lactuca sativa, Linn.",
+                "Local application of paste containing following drugs for the Waram afflicted with Safrā 1: Roghan-i Sosan, Mom Safed, Safūf-i Bābūna (Powder of Matricaria chamomilla, Linn.)",
+                "Gharghara (Gargle) with following drugs for the Waram afflicted with Balgham1:‘Āqarqarhā (Anacyclus pyrethrum, DC.), Mawīzaj (Vitis vinifera, Linn. ), Rubb-i Angūr (Dry extract of fresh grapes)"
+            ],
+            "comp_drug": [
+                "Sharbat-i ‘Unnā",
+                "Mā’ al-Sha‘ī",
+                "Sharbat-i Tūt Siyā",
+                "Sharbat-i Sapistā"
+            ],
+            "reg_theropy": [
+                "Fasd-i Qīfāl (Bloodletting through cephalic vein) in case of Damawī and Safrāwī type",
+                "Fasd-i Bāslīq (Bloodletting through basilic vein) in case of Sawdāwī type.",
+                "Huqna (Enema) in case of Balghamī type",
+                "Ishāl (Purgation",
+                "Hijāma (Cupping) on the area between the shoulders in case of Damawī type",
+                "Gharghara (Gargle"
+            ],
+            "diet_recom": [
+                "Mā’ al-Sha‘īr"
+            ],
+            "diet_restrict": [
+                "Aghziya Ghalīza",
+                "Chilled foods and drink"
+            ],
+            "prevention": [
+                "Muwallidāt-i Sawdā regimens to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Catarr"
+            ],
+            "disease_persian": [
+                "Nazla"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "descent of the secretions that arise from frontal region of brain and fall on the upper part of throa",
+                "flow of secretion of thin consistency and causing irritation (if caused by Harārat",
+                "stuffy nos",
+                "thick secretion",
+                "hange in the voice (if caused by Burūdat)"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Hea",
+                "Col"
+            ],
+            "cause_persian": [
+                "Harāra",
+                "Burūda"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Harārat (Heat) that affects through its power of dissolution (Nazla Hār",
+                "Burūdat (Cold) affecting through its squeezing ability (Nazla Bārid"
+            ],
+            "principle_of_treatment": [
+                "Taskhīn  (To produce warmth) in case of Nazla Bāri",
+                "Taghlīz-i Mādda (To make the matter thicker) in case of Nazla Hā"
+            ],
+            "pharmacotherapy": [
+                "In case of Nazla Bārid, when the Burūdat is severe, following Inkibāb (Steam inhalation) may be used 2: Nākhūna (Pods of Trigonella uncata, Boiss.), Bābūna (Matricaria chamomilla, Linn.), Marzanjosh (Origanum majorana, Linn.), Soyā (Anethum sowa, Roxb.",
+                "Shamūm for Nazla Bārid2: Kalonjī Biryān   (Roasted   seed   of   Nigella   sativa,   Linn.),   Anīsūn (Pimpinella anisum, Linn.",
+                "In case of Nazla Hār, oral administration of decoction of Post-i Khashkhāsh (Rind of Papaver somniferum, Linn.) for Taghlīz-i Mādd"
+            ],
+            "comp_drug": [
+                "Tiryāq-i Nazl",
+                "Shrabat-i Khashkhāsh Sāda3 (Nazla Hār",
+                "Sharbat-i Khashkhāsh3 (Nazla Hār",
+                "Sharbat Faryādra",
+                "Sharbat-i Nazl",
+                "Qurs-i Nazla Ban",
+                "Qurs-i Khashkhāsh3 (Nazla Hār",
+                "La‘ūq-i Sapistān",
+                "La‘ūq-i Khashkhāsh3 (Nazla Hār",
+                "La‘ūq-i Bazr al-Banj3 (Nazla Hār"
+            ],
+            "reg_theropy": [
+                "Takmīd Hār (Hot fomentation) in case of Nazla Bārid.",
+                "Inkibāb (Steam inhalation) in case of Nazla Bārid"
+            ],
+            "diet_recom": [
+                "Aghziya mujaffifa in case of Nazla Hār",
+                "Harīra made of Ārd-i Bāqla (Flour of Phaseolus vulgaris, Linn.) and hone",
+                "Zardī-i Bayza-i Murg",
+                "Fis"
+            ],
+            "diet_restrict": [
+                "Aghziya Mubakhkhir"
+            ],
+            "prevention": [
+                "Excessive wakefulness, too much of sex, cold things and alcoholism to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "(Coryz"
+            ],
+            "disease_persian": [
+                "Zukā"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "flow of secretions originating from brain and falling on the nostril",
+                "cretions proceed further to run through nose constantly and undermine the sense of smel",
+                "Sū’-i Mizāj Bārid (Cold morbid temperament) of brain arising out of various external factor",
+                "irritation and itching of nos",
+                "redness of eyes and fac",
+                "discharge of yellowis",
+                "thin secretion through nose (if caused by Harārat",
+                "discharge of thick secretion from nos",
+                "letharg",
+                "feeling of heaviness of head (if caused by Burūdat"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Hot morbid temperamen",
+                "Cold morbid temperamen"
+            ],
+            "cause_persian": [
+                "Sū’-i Mizāj Hār",
+                "Sū’-i Mizāj Bāri"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Sū’-i Mizāj Hār (Hot morbid temperament) of brain that builds up due to certain external factors such as exposure to sun and arom"
+            ],
+            "principle_of_treatment": [
+                "Istifrāgh-i Badan (Evacuation of whole body) in case of Zukām Hā",
+                "Taskhīn (To produce warmth) in case of Zukām Bāri"
+            ],
+            "pharmacotherapy": [
+                "In case of Zukām Hār, inhalation of any of the following oils2: Roghan-i Banafsha/Roghan-i Nīlofar/ Roghan-i Kad",
+                "In case of Zukām Bārid, Takmīd Hār with Jawār (Pennisetum typhoideum, Rich.) tied in cloth.",
+                "Oral administration of following infusion in case of Zukām Bārid2:  Lādan (Citrus ladanum)/ Shonīz (Nigella sativa, Linn.)/ Qust (Saussurea lappa, Clarke.) prepared in vinega",
+                "Natūl (Irrigation) with any of the following drug’s decoction on head in Zukām Bārid 2: Bābūna (Matricaria chamomilla, Linn.)/Nākhūna (Pods of Trigonella uncata, Boiss.)/Marzanjosh (Origanum majorana, Linn.)",
+                "Inhalation of following formulation in Zukām Bārid2: Shonīz Muhammas (Roasted seed of Nigella sativa, Linn.), Anīsūn (seed of Pimpinella anisum, Linn.",
+                "Steam inhalation with the decoction of any of the following drugs in case of Zukām Bārid 2: Banafsha (Viola odorata, Linn.)/ Bābūna (Matricaria chamomilla, Linn.)/ Khatmī (Althea officinalis, Linn.)/Post-i Khashkhāsh (Rind of Papaver somniferum, Linn."
+            ],
+            "comp_drug": [
+                "Shrabat-i Khashkhāsh Sād",
+                "Sharbat-i Khashkhāsh3 (Zukām Hār",
+                "Qurs-i Nazla Band",
+                "Qurs-i Khashkhāsh3 (Zukām Hār",
+                "Sharbat-i Khashkhās",
+                "La‘ūq-i Sapistā",
+                "La‘ūq-i Khashkhās",
+                "La‘ūq-i Bazr al-Ban"
+            ],
+            "reg_theropy": [
+                "Takmīd Hār (Hot fomentation) in case of Zukām Bārid",
+                "Fasd (Bloodletting) in case of Zukām Hā",
+                "Hammām (Bath) in case of Zukaām Hār and Bārid"
+            ],
+            "diet_recom": [
+                "Aghziya Mujaffifa in case of Nazla Hār",
+                "Harīra made of Ārd-i Bāqla (Flour of Phaseolus vulgaris, Linn.) and  hone",
+                "Zardī-i Bayza-i Murg",
+                "Fis"
+            ],
+            "diet_restrict": [
+                "Aghziya Mubakhkhir"
+            ],
+            "prevention": [
+                "Excessive wakefulness, too much of sex, cold things and alcoholism to be avoided"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Coug"
+            ],
+            "disease_persian": [
+                "Su‘ā"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "reflex action of the body to remove the irritating substance from the respiratory air trac",
+                "coryz",
+                "nasal irritatio",
+                "fever (Occasional",
+                "specific features of causative factors",
+                "Asbāb Hārra (Hot factors",
+                "Asbāb Bārida (Cold factors",
+                "xpectoration in case of productive coug"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Simple & substantial morbid temperamen"
+            ],
+            "cause_persian": [
+                "Sū’-i Mizāj Sāda o Mādd"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "cold weathe",
+                "air pollutio",
+                "Sū’-i Mizāj Sāda o Māddī (Simple & substantial morbid temperament",
+                "pouring of causative matter on respiratory organs and their inflammatio",
+                "involvement of other body organ"
+            ],
+            "principle_of_treatment": [
+                "Ta‘dīl-i Sū’-i Mizāj (Correction of morbid temperament) through Taltīf (Rarefaction), Taskhīn (Warming), Tartīb (Moistening), Tajfīf o Tanshīf (Drying) or Taghriya (Soothing) as require",
+                "Tanfīs (Expectoration",
+                "Taskīn-i Su‘āl (Checking the cough",
+                "Treatment of causative fact"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of mucilaginous decanted liquid, prepared from Aspghol (Plantago ovata, Forsk.), Nashāsta (Starch), Behīdāna (Seed of Cydonia oblonga, Mill.), Samagh ‘Arabī (Gum of Acacia Arabica, Willd.) for Su‘āl Hā",
+                "Oral administration of pomegranate juice, mixed with sugar for Su‘āl Hā",
+                "Oral administration of pomegranate juice, mixed with honey for Su‘āl Bāri",
+                "Oral administration of mixture of Maghz-i Bādām (Prunus amygdalus, Batsch.) 1 part, sugar 1 part, Mawīz Munaqqa (Vitis vinifera, Linn.) ½ part for dry coug",
+                "Oral administration of the decoction of Asl  al-Sūs  (Glycyrrhiza glabra, Linn.) 7 gm., Gāozabān (Borago officinalis, Linn.) 3.5 gm. and Parshiāoshān (Adiantum capillus-veneris, Linn. & Bedd.) 3.5 g",
+                "Oral administration of the decoction of Asl al-Sūs (Glycyrrhiza glabra, Linn.), Hulba (Trigonella foenum-graeceum, Linn.), Zūfa (Hyssopus officinalis, Linn.), and Anjīr (Ficus carica, Linn.",
+                "Oral administration of tablet, containing equal parts of Rubb al-Sūs (Dried extract of Glycyrrhiza glabra, Linn.), sugar, Filfil Siyāh (Piper nigrum, Linn",
+                "Oral administration of Harīra, containing Jaw Muqashshar (Dehusked seed of Hordeum vulgare, Linn.), Khashkhāsh (Seed of Papaver somniferum, Linn.), sugar and almond oil for dry coug"
+            ],
+            "comp_drug": [
+                "Sharbat-i Banafsha for Su‘āl Hā",
+                "Sharbat-i Khashkhās",
+                "Habb-i Surf",
+                "Khamīra-i Khashkhās",
+                "Sharbat I‘jā",
+                "Sharbat-i ‘Unnā",
+                "Sharbat-i Zūfā Sād",
+                "Sharbat-i Zūfā Murakka",
+                "Habb-i Adra",
+                "La‘ūq-i Behīdān",
+                "La‘ūq-i Khashkhās",
+                "La‘ūq-i Sapistā",
+                "Arq-i Gāozabā",
+                "La‘ūq Nazl",
+                "Inkibāb (Steam inhalation",
+                "Takmīd (Fomentation) on ches",
+                "Tadhīn (Oil massage) on chest"
+            ],
+            "reg_theropy": [],
+            "diet_recom": [
+                "Aghziya Murattiba for dry coug",
+                "Goat milk for dry coug",
+                "Mā’ al-Sha‘īr prepared with crab",
+                "Mā’ al-‘As"
+            ],
+            "diet_restrict": [
+                "Aghziya Munaffikh",
+                "Aghziya Qābiz"
+            ],
+            "prevention": [
+                "Excessive sleep to be avoided, when cough is associated with coryza",
+                "Regimens, producing cold, heat or roughness in the body to be avoide",
+                "Drugs and diets, producing roughness in trachea to be avoide",
+                "Smoking to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Palpitatio"
+            ],
+            "disease_persian": [
+                "Khafaqān"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "heart beat is within the notice of the patient with the feeling of aversio",
+                "Mādda Khiltiyya (Humoural matter",
+                "prominence of vessels",
+                "lethargy (if caused by Mādda Khiltiyya",
+                "disturbance of cogitation and anxiet"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Humoural matte",
+                "Simple morbid temperamen",
+                "Dissolution"
+            ],
+            "cause_persian": [
+                "Mādda Khiltiyya",
+                "Sū’-i Mizāj Sād",
+                "Inhilāl-i Far"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Sū’-i Mizāj Sāda (Simple morbid temperament",
+                "Inhilāl-i Fard (Dissolution)",
+                "extreme sensitivit"
+            ],
+            "principle_of_treatment": [
+                "Istifrāgh (Evacuation",
+                "Istifrāgh  through emesis and purgation if Khafaqān has a gastric associatio",
+                "Taqlīl-i Ghizā (Dietary control) but plenty of nutritive food, when the cause is haemorrhag",
+                "Taqlīl-i Ghizā  (Moderation of food",
+                "Taqwiyat-i Qalb (Toning up of heart"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of Marwārīd Mahlūl in case of Khafaqān due to Sawdā",
+                "Purgation by using Ayārajāt in case of Khafaqān due to Sawdā such as Loghāziya, Fayqra",
+                "Gul Surkh (Rosa damascena, Mill.), Sandal (Santalum album, Linn.), Nīlofar (Nymphaea lotus, Linn.) in equal quantity used as infusion with Sharbat-i Sandal and ‘Arq-i Gulāb"
+            ],
+            "comp_drug": [
+                "Dwā’ al-Mis",
+                "Arq-i Gāozabā",
+                "Murabba-i Āml",
+                "Murabba-i Halayl",
+                "Ma‘jūn-i Aftīmū",
+                "Khamīra-i Yāqū",
+                "Khamīra-i Marwārī",
+                "Khamīra-i Sanda",
+                "Khamīra-i Gāozabān ‘Ambar",
+                "Khamīra-i Ābresha",
+                "Mufarrih Bāri"
+            ],
+            "reg_theropy": [
+                "Fasd-i Bāslīq (Bloodletting through left basilic vein) in Khafaqān Damaw",
+                "Qay’ (Emesis) and Ishāl (Purgation) in case of Khafaqān due to gastric associatio"
+            ],
+            "diet_recom": [
+                "Mā’ al-Rā’i",
+                "Cur",
+                "Aghziya Mubarrid"
+            ],
+            "diet_restrict": [
+                "Aghziya Mubakhkhir",
+                "Indigestion to be avoide",
+                "Alcoholism to be avoide"
+            ],
+            "prevention": []
+        },
+        {
+            "disease_eng": [
+                "Supressed Lactatio"
+            ],
+            "disease_persian": [
+                "Qillat-i Laba"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "drop in milk production and its supply in lactating mother",
+                "low milk suppl"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "anaemi",
+                "chronic disease",
+                "Sū’-i Mizāj-i Pistān (Breast morbid temperament",
+                "Fasād-i Dam (Sanguine abnormality",
+                "malnutritio",
+                "psychological factor"
+            ],
+            "principle_of_treatment": [
+                "Tawlīd-i Dam (Haemopoiesis",
+                "Tasmīn-i Badan (To gain weight",
+                "Taksīr-i Ghiza (Increase in food quantity",
+                "Ta‘dīl-i Mizāj-i Pistān, (Normalization of breast temperament",
+                "Tafrīh-i Taba‘  (Exhilaration"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of powder of Tūdrī Surkh (Lepidium iperis, Linn.) 4 gm. with 250 ml. of cow mil",
+                "Oral administration of powder of Nishāsta (Starch) 24 gm., with 500 ml. of cow mil",
+                "Oral administration of cow milk, mixed with suga",
+                "Oral administration of powder of Shonīz (Nigella sativa, Linn.) 2 gm., with Mā’ al-‘As",
+                "Oral administration of powder of Zīra Safed (Cuminum cyminum, Linn.) 1 part, Saunf (Foeniculum vulgare, Mill.) 1 part, Satāwar (Asparagus racemosus, Mill.) 1 part in the dose of 7 gm., with milk and suga"
+            ],
+            "comp_drug": [
+                "Halwa-i Bayza-i Murg",
+                "Halwa-i Nakhū",
+                "Halwa-i Sa‘la"
+            ],
+            "reg_theropy": [
+                "Hijāma (Cupping) below the breas",
+                "Natūl (Pouring) of lukewarm water on breas"
+            ],
+            "diet_recom": [
+                "Aghziya Musammin",
+                "Breasts of animal",
+                "Muwallid-i Shīr Aghziya (Lactogenic diets"
+            ],
+            "diet_restrict": [],
+            "prevention": [
+                "Psychological factors affecting the milk production adversely are to be avoide",
+                "Tobacco consumption to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Hiccu"
+            ],
+            "disease_persian": [
+                "Fuwā"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "abrupt contraction of esophagus and stomac",
+                "heartburn (if caused by acrid matters",
+                "history of indigestion (if caused by viscid gases",
+                "epigastric heavines",
+                "water brashe",
+                "indigestion (if caused by large amount of secretions",
+                "decreased thirst (if caused by Sū’-i Mizāj Bārid",
+                "symptom_engs of Waram-i Jigar ‘Azīm (Massive hepatitis) in case of hepatic involvemen"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Acrid matter",
+                "Cold morbid temperamen"
+            ],
+            "cause_persian": [
+                "Ashiyā’ Lazzā ‘",
+                "Sū’-i Mizāj Bāri"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Ashiyā’ Lazzā ‘a (Acrid matters) that induce irritation at the cardiac end of the stomac",
+                "retention of viscid gase",
+                "large amount of secretions and food material in the stomac",
+                "Sū’-i Mizāj Bārid (Cold morbid temperament) of stomach may also cause hiccough while sometimes it arises because of certain factors of hepatic origi"
+            ],
+            "principle_of_treatment": [
+                "Tanqiya-i Mi‘da (Cleansing of stomac",
+                "Tahlīl-i Riyāh (Resolution of flatus",
+                "Taqlīl-i Ghizā (Moderation of diet",
+                "Taskhīn-i Mi‘da  (Warming the stomach",
+                "Ilāj-i Waram-i Jigar (Treatment of hepatitis",
+                "Islāh-i Ghizā  (Dietary modification"
+            ],
+            "pharmacotherapy": [
+                "Qay’ (Emesis) with Sikanjbīn and luke warm wate",
+                "Water mixed with salt orally for emesi",
+                "Oral administration of mucilage of seed of Aspghol (Plantago ovata, Forsk.",
+                "Atūs (Snuff) with Kundush (Dregea volubilis, Benth.",
+                "Sipping of Roghan-i Bādam Shīrīn (Almond oil"
+            ],
+            "comp_drug": [
+                "Jawārish Kamūn",
+                "Jawārish-i Pudīn",
+                "Jawārish-i Zanjabī",
+                "Jawārish-i Mastag",
+                "Ayāraj-i Fayqr"
+            ],
+            "reg_theropy": [
+                "Qay’ (Emesis) followed by Ishāl (Purgation",
+                "A‘rāz Nafsāniyya (Emotional stimulation) like instigating anger, frightening, breaking good new"
+            ],
+            "diet_recom": [
+                "Mā’ al-Sha‘īr Mubarrad (Chilled Barley water",
+                "Flour of roasted barley see",
+                "Sipping of butte",
+                "Sipping of mil"
+            ],
+            "diet_restrict": [
+                "Bisyār Khorī (Plenty of food",
+                "Mubarrid"
+            ],
+            "prevention": []
+        },
+        {
+            "disease_eng": [
+                "Pic"
+            ],
+            "disease_persian": [
+                "Waham o Fasād-i Shahwa"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "desire for foods of strange qualities such as acrid foo",
+                "desire for unusual and non-nutritive things such as potsherd, charcoal, et",
+                "change in eating habit with the desire for unusual foods such as acrid food, charcoal, lime, potsherd, et"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "accumulation of Akhlāt Radiyya (Bad humours",
+                "usually Khilt Balgham3 in the stomach and uteru"
+            ],
+            "principle_of_treatment": [
+                "Istifrāgh bi’l-Qay’ (Evacuation through emesis",
+                "Istifrāgh bi’l-Ishā (Evacuation through purgation"
+            ],
+            "pharmacotherapy": [
+                "Mashāsh al-‘Izām (Soft ends of bones)",
+                "Mā’ al-‘As",
+                "Following Naqū‘ (Infusion) for oral administration3: Tukhm-i Mūlī (Raphanus sativus,Linn.), Tukhm-i Shibit (Anethum sowa, Kurz.) infused in Sikanjabīn",
+                "Ilā’ichī Khurd (Elettaria cardamomum, Maton.), Ilā’ichī Kalān (Amomum subulatum, Roxb.), Jāwitrī (Myristica fragrans, Houtt.) each in equal quantity is powdered and mixed with equal quantity of sugar"
+            ],
+            "comp_drug": [
+                "Jawārish-i Anāray",
+                "Jawārish Kamūn"
+            ],
+            "reg_theropy": [
+                "Qay’ (Emesis"
+            ],
+            "diet_recom": [
+                "Aghziya Latīf"
+            ],
+            "diet_restrict": [
+                "Aghziya Muta‘affin",
+                "Aghziya Radiyy",
+                "Aghziya Saqīl"
+            ],
+            "prevention": [
+                "Foods of poor quality to be avoided",
+                "Emesis and purgation are contraindicated during pregnanc"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Flatulenc"
+            ],
+            "disease_persian": [
+                "Nafakh-i Mi‘d"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "excessive production and accumulation of Riyāh (Gases) in the stomach leading to abdominal distensio",
+                "flatulenc",
+                "Qarāqir (rumbling",
+                "feeling of heaviness in the abdome",
+                "gastralgi",
+                "belchin"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Cold morbid temperamen",
+                "Weakness of innate hea"
+            ],
+            "cause_persian": [
+                "Sū’-i Mizāj Bārid",
+                "Zu‘f-i Harārat Gharīziyya"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Sū’-i Mizāj Bārid (Cold morbid temperament",
+                "Zu‘f-i Harārat Gharīziyya (Weakness of innate heat) of stomac",
+                "use of flatulent and other foods which are difficult to be digeste"
+            ],
+            "principle_of_treatment": [
+                "Taqlīl-i Ghizā’  (Dietary restriction",
+                "Taskhīn-i Mi‘da (Warming the stomach",
+                "Taqwiyat-i Mi‘da (Toning up of stomach"
+            ],
+            "pharmacotherapy": [
+                "Hiltīt (Asafoetida) diluted in vinegar and soaked in sponge may be kept over the abdome",
+                "Application of any hot oil on stomac",
+                "Powder of Khulanjān (Alpinia galanga, Willd.), mixed with honey and Sakbīnaj (Ferula persica, Willd.) may be used orally",
+                "Hot & Dry fomentation with following drugs3: Namak Khurdanī (Common salt), Zīra (Carum carvi, Linn.), Ajwā’in (Trachyspermum ammi, Linn.) tied in a pouch after heating, may be kept on stomach"
+            ],
+            "comp_drug": [
+                "Jawārish Kamūn",
+                "Jawārish Falāfil",
+                "Jawārish-i Anjadā",
+                "Jawārish-i Sa‘ta",
+                "Jawārish-i Pudīn",
+                "Jawārish-i ‘Amba"
+            ],
+            "reg_theropy": [
+                "Hammām (Bath) and Riyāzat Kasīra (Frequent exercise) before taking foo",
+                "Massage of hot oil on upper abdome",
+                "Hot & Dry fomentatio",
+                "Aghziya Mubakhkhir"
+            ],
+            "diet_recom": [
+                "Aghziya Latīf"
+            ],
+            "diet_restrict": [],
+            "prevention": [
+                "Muwallid-i Riyāh Aghziya to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [],
+            "disease_persian": [
+                "Waram-i Mi‘da"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "inflammation of stomach (its inner lining) which may be Hār (Damawī/Safrāwī), Bārid (Balghamī [Rakhw]/Sawdāwī [Sulb]",
+                "Hummā (Fever",
+                "vomitin",
+                "excessive thirs",
+                "restlessnes",
+                "decreased appetite in case of Waram Hār",
+                "Hummā Layyina (Mild fever",
+                "excessive spittl",
+                "decreased appetit",
+                "distended stomac",
+                "whitish tongu",
+                "puffiness of face in case of Waram Bārid of soft consistenc",
+                "Bhalgha",
+                "Waram Bārid of hard consistenc",
+                "Sawd",
+                "hardness on palpatio"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Sanguin",
+                "Yellow bil",
+                "Phleg",
+                "Black bil"
+            ],
+            "cause_persian": [
+                "Da",
+                "Safr",
+                "Balgham",
+                "Sawd"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "accumulation of Dam (Sanguine",
+                "Safrā (Yellow bile",
+                "Balgham (Phlegm",
+                "Sawdā (Black bile) in the stomac",
+                "inflammation of gastric mucos"
+            ],
+            "principle_of_treatment": [
+                "Taqlīl-i Ghizā’  (Dietary restriction",
+                "Ishāl (Purgation) through enema in case of Waram Hā",
+                "Rad‘-i Mawād (Repellence of causative matter) in case of Waram Hā",
+                "Tahlīl-i Waramm (Resolution of swelling) in case of Waram Hā",
+                "Istifrāgh (Evacuation) by Mushil-i Sawdā drugs in case of Waram Sul"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of Mā’ al-Sha‘īr in case of Waram Hā",
+                "Mā’ al-Usūl 50 ml. mixed with Gulqand 24 gm. to be used orally in case of Waram Rakh",
+                "Mā’ al-Usūl mixed with Dawā’ al-Kurkum to be used orally in case of Waram Rakh",
+                "Arq-i Bādiyān 2.25 ml., ‘Arq-i Karafs 2.25 ml. with Falūs-i Khayārshambar (Fruit pulp of Cassia fistula, Linn.) to be used orally in case of Waram Sul",
+                "Massage of castor oil over the abdomen in case of Waram Sul",
+                "Tiryāq Arba‘a (Waram Rakhw",
+                "Arq-i Mako+’Arq-i Kāsnī (Waram Hār",
+                "Sharbat-i Banafsha (Waram Hār",
+                "Sharbat-i Nīlofar (Waram Hār",
+                "Fasd-i Warīd-i Akhal (Bloodletting through Akhal) in case of Waram Hā",
+                "Light exercise in case of Waram Bārid Rakh",
+                "Dalk (Massage) with oil and vinegar in case of Waram Bārid Rakh"
+            ],
+            "comp_drug": [],
+            "reg_theropy": [],
+            "diet_recom": [
+                "Aghziya Latīf",
+                "Āb-i Anār Tursh in case of Waram Hār"
+            ],
+            "diet_restrict": [
+                "Chilled water to be avoided in case of Waram Rakh"
+            ],
+            "prevention": [
+                "Foods of bad quality to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Hyperacidity/Retrosternal Burnin"
+            ],
+            "disease_persian": [
+                "Hurqat-i Mi‘d"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "burning sensation in epigastric regio",
+                "burning sensation in epigastric region  and behind the sternum (either at full or empty stomach)",
+                "nause",
+                "vomiting1",
+                "discomfor"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Ghizā’ Ghalīz Khām (Food that is partially cooked and hard to digest",
+                "pouring of irritant",
+                "sour black bile",
+                "bilious fluids on stomac"
+            ],
+            "principle_of_treatment": [
+                "Taskīn-i Laz‘  (Neutralization of irritation",
+                "Rad‘-i Mawād Fāsida  (Repulsion of causative bad matter",
+                "Taqwiyat-i Mi‘da (Toning up of stomach"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of the decoction of Tukhm-i Mūlī (Raphanus sativus, Linn.), common salt and honey for emesis, followed by oral administration of Sharbat-i Anārayn 48 ml",
+                "Oral administration of powder of Gul-i Babūl (Acacia Arabica, Willd.) 1 part, Namak-i Tabarzad (Rock salt) 1 part, in the dose of 7 g",
+                "Oral administration of mucilaginous decanted liquid prepared from Aspghol Musallam (Seed of Plantago ovata, Forsk.) 17.5 gm., mixed with suga"
+            ],
+            "comp_drug": [
+                "Sikanjabīn Bazūr",
+                "Murabbā-i Āml",
+                "Murabbā-i Halayl",
+                "Namak Sulaymān",
+                "Jawārish-i Masta",
+                "Sikanjabīn ‘Unsul"
+            ],
+            "reg_theropy": [
+                "Fasd-i Usaylim (Bloodletting through Usaylim vein) of left han",
+                "Qay’ (Emesis"
+            ],
+            "diet_recom": [
+                "Mā’ al-Sha‘ī",
+                "Aghziya Nāshif",
+                "Aghziya Latīf",
+                "Mā’ al-Jub"
+            ],
+            "diet_restrict": [
+                "Aghziya Ghalīz",
+                "Diets, that may produce black bil",
+                "Regimens, that may increase the production of black bile should be avoide"
+            ],
+            "prevention": []
+        },
+        {
+            "disease_eng": [
+                "Choler"
+            ],
+            "disease_persian": [
+                "Hayz"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "undigested  and putrefied  food stuff of the stomach and intestine is pushed out through vomiting and diarrhoe",
+                "restlessnes",
+                "excessive thirs",
+                "cold sweatin",
+                "muscular cramp",
+                "severe vomiting",
+                "diarrhe"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Decay of foo",
+                "Dyspepsi"
+            ],
+            "cause_persian": [
+                "Fasād-i Ghiz",
+                "Fasād-i Haz"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Fasād-i Ghizā (Decay of food)",
+                "Fasād-i Hazm (Dyspepsia"
+            ],
+            "principle_of_treatment": [
+                "Tanqiya-i Mi‘da (Evacuation of stomach",
+                "Taqwiyat-i Harārat-i Gharīziyya (strengthening of natural body heat",
+                "In‘āsh-i Quwā  (Restoration of body faculties",
+                "Taskīn-i  ‘Atsh  (Quenching of thirs",
+                "Taqwiyat-i Qalb (Strengthening of heart",
+                "Taqlīl-i Ghizā (Dietary control",
+                "Habs-i Qay’  (Control of vomiting",
+                "Habs-i Ishāl (Control of diarrhoea"
+            ],
+            "pharmacotherapy": [
+                "Oral Administration of lukewarm water mixed with common salt to induce vomiting in early stage of the diseas",
+                "Dropping of following formulation in throa",
+                "Narjīl Daryā’ī (Lodoicea sechellarum, Comm. & Labill.), ‘Ūd Salīb (Paeonia emodi, Wall.), Jadwār (Delphinium denudatum, Wall.) powdered and mixed with ‘Arq-i Gulāb",
+                "Oral administration of one of the following mixture3: Papīta (Carica papaya, Linn.), Filfil Siyāh (Piper nigrum, Linn.)/Narjīl Daryā’ī (Lodoicea sechellarum, Comm. & Labill.), Filfil Siyāh (Piper nigrum, Linn.)/Jadwār (Delphinium denudatum, Wall.), Filfil Siyāh (Piper nigrum, Linn.)/Papīta (Carica papaya, Linn.) 2 gm., ‘Arq-i Gulāb",
+                "Oral administration of mixture of Papīta (Carica papaya, Linn.) with ‘Arq-i Keor"
+            ],
+            "comp_drug": [
+                "Jawārish-i Anāray",
+                "Jawārish Safarjalī Qābi",
+                "Sharbat-i Habb al-Ā",
+                "Sharbat-i Ābresha",
+                "Rubb-i Anār Turs",
+                "Dawā’ al-Misk3 for In‘āsh-i Quw",
+                "Jawāhar Mohr",
+                "Mu‘tadil Jawāhar Wāl",
+                "Yāqutī3 for In‘āsh-i Quw",
+                "Sharbat-i Anār Turs",
+                "Qurs-i Kāfū",
+                "Qurs-i ‘Ū",
+                "Hammām (Bath"
+            ],
+            "reg_theropy": [],
+            "diet_recom": [
+                "Aghziya Latī",
+                "Āb Sard (Cold Water",
+                "Aghziya Kasīra (Heavy Diet"
+            ],
+            "diet_restrict": [
+                "Cotaminated die"
+            ],
+            "prevention": [
+                "Abrupt arrest of vomiting and diarrhoea should be Avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Sanguineous Hepatiti"
+            ],
+            "disease_persian": [
+                "Waram-i Kabid Damawī"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "acute inflammatory condition of live",
+                "feve",
+                "thirst",
+                "heaviness and pain in right hypochondriu",
+                "loss of appetit",
+                "constipation",
+                "oliguria along other features of predominance of sanguin"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Sanguin"
+            ],
+            "cause_persian": [
+                "Da"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "predominance of Dam (Sanguine"
+            ],
+            "principle_of_treatment": [
+                "Taqlīl-i Ghizā  (Dietary control",
+                "Istifrāgh (Evacuation) through Fasd (Bloodletting)",
+                "Tahlīl-i Waram (Resolution of inflammation) through Rad‘-i Mawād (Deterrence of causative matter), Ishāl (Purgation) in case of inflammation, being in lower part of liver and Idrār (Diuresis), when the inflammation is in its upper par",
+                "Talyīn (Laxation"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of pomegranate juice with Sikanjabīn 24-48 m",
+                "Oral administration of Lu‘āb-i Behīdāna (Mucilage of seed of Cydonia oblonga, Mill.",
+                "Oral administration of Lu‘āb-i Aspghol (Mucilage of seed of Plantago ovata, Frosk.",
+                "Oral administration of Maghz-i Falūs Khiyār Shanbar (Fruit pulp of Cassia fistula, Linn.) mixed with Shīra-i Tukhm-i Kāsinī (Cichorium intybus, Linn.",
+                "Local application of a mixture of fresh juice of leaves of Mako (Solanum nigrum, Linn.), Roghan-i Gul and vinegar in the early stage of diseas",
+                "mocal application of following Zimād (Paste)4: Ārd-i Jaw (Flour of seed of Hordeum vulgare, Linn.), Sandal (Santalum album, Linn.), Gulāb (Rosa damascena, Mill.), Āb-i Kāsinī (Fresh juice of Cichorium intybus, Linn.), vinega"
+            ],
+            "comp_drug": [
+                "Arq-i Mak",
+                "‘Arq-i Kāsin",
+                "Qurs-i Zarish",
+                "Sharbat-i Anāray",
+                "Sikanjabīn Sād",
+                "Sharbat Dīnā",
+                "Sharbat-i Nīlofa"
+            ],
+            "reg_theropy": [
+                "Fasd-i Bāslīq (Bloodletting through basilic vein) of right han"
+            ],
+            "diet_recom": [
+                "juices of fruits, especially that of pomegranat",
+                "Sattū (Flour of roasted seed of Hordeum vulgare, Linn.) mixed with suga",
+                "Mā’ al-Sha‘ī"
+            ],
+            "diet_restrict": [],
+            "prevention": [
+                "Strong purgatives and diuretics to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Bilious Hepatiti"
+            ],
+            "disease_persian": [
+                "Waram-i Kabid Safrāw"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "acute inflammatory condition of live",
+                "high grade feve",
+                "excessive thirs",
+                "nause",
+                "vomitin",
+                "pain in right hypochondriu",
+                "loss of appetit",
+                "cough/ hiccu",
+                "yellowish stoo",
+                "eruptions on tongu",
+                "features of predominance of yellow bil"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "predominance of Safrā’ (Yellow bile) accumulated either due to its excessive production or because of an obstruction in the live"
+            ],
+            "principle_of_treatment": [
+                "Ikhrāj-i Safrā’   (Evacuation of yellow bile",
+                "Ta‘dīl-i Safrā’   (Normalization of yellow bile",
+                "Tahlīl-i Waram (Resolution of inflammation) by Ikhrāj-i Safrā’ (Evacuation of yellow bile) through Ishāl (Purgation) in case of inflammation being in lower part of liver and Idrār (Diuresis), when the inflammation is in its upper par",
+                "Tabrīd-i Kabid  (Cooling of liver’s temperament",
+                "Talyīn (Laxation",
+                "Taftīh-i Sudad-i Kabid  (Removal of hepatic obstructions",
+                "Taqwiyat-i Jigar (Toning up of liver"
+            ],
+            "pharmacotherapy": [
+                "joshānda-i Halayl",
+                "joshānda-i Fawāki",
+                "Oral administration of the decoction containing following ingredients2: Tukhm o Bekh-i Kāsinī (Cichorium intybus, Linn.), Mako (Solanum nigrum, Linn.), Tukhm-i Khīrā (Cucumis sativus, Linn.), Parshiāoshān (Adiantum capillus-veneris, Linn.), Asl al-Sūs (Glycyrrhiza glabra, Linn.)",
+                "Oral administration of the decoction of Chahār Gul with Maghz-i Falūs Khiyār Shanbar (Fruit pulp of Cassia fistula, Linn.",
+                "Local application of following Zimād (Paste)1: Olive oil, Ārd-i Gandum (Wheat Flour), Water",
+                "Local application of following Zimād (Paste)4: Ārd-i Jaw (Flour of seed of Hordeum vulgare, Linn.), Sandal (Santalum album, Linn.), Gulāb (Rosa damascena, Mill.), Āb-i Kāsinī (Fresh juice of Cichorium intybus, Linn.), vinegar",
+                "Local application of paste of Sandal (Santalum album, Linn.), Gul-i Surkh (Rosa damascena, Mill.), ‘Arq-i Gulāb (Rosa damascena, Mill.) and Kāfūr (Cinnamomum camphora, Nees."
+            ],
+            "comp_drug": [
+                "Sikanjabīn Sād",
+                "Sikanjabīn Bazūr",
+                "Sharbat-i Nīlofa",
+                "Sharbat-i Ālūbukhār",
+                "Sharbat-i ‘Unnā",
+                "Zarishk (Berberis vulgaris, DC.",
+                "Sharbat Dīnā",
+                "Qurs-i Zarish",
+                "Qurs-i Tabāshīr Kāfūrī",
+                "Sharbat-i Ward Mukarra"
+            ],
+            "reg_theropy": [
+                "Fasd-i Bāslīq (Bloodletting through basilic vein"
+            ],
+            "diet_recom": [
+                "Mā’ al-‘As",
+                "Mā’ al-Sha‘ī",
+                "Goat mil",
+                "Mā’ al-Fawāki",
+                "Grape juic",
+                "Sour pomegranate juic"
+            ],
+            "diet_restrict": [
+                "Aghziya Musakhkhin"
+            ],
+            "prevention": [
+                "Heat enhancing regimens to be avoided"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Phlegmatic Hepatiti"
+            ],
+            "disease_persian": [
+                "Waram-i Kabid Balghamī"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "Waram Rakhw (Soft swelling) of live",
+                "heaviness in right hypochondrium without pain and feve",
+                "softness on palpation along with the features of predominance of phleg"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "predominance of Balgham (Phlegm) accumulated either due to excessive production or its deficient resolutio"
+            ],
+            "principle_of_treatment": [
+                "Taqlīl-i Ghizā (Dietary control",
+                "Tanqiya-i Balgham (Evacuation of phlegm) through Ishāl (Purgation) and Idrār (Diuresis",
+                "Taqwiyat-i Mi‘da o Jigar  (Toning up of stomach and liver)",
+                "Taskhīn-i Jigar  (Calefaction of liver"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of decoction of Afsantīn (Artemisia absinthium, Linn.) with Castor oil",
+                "Joshānda-i Fawāki",
+                "Oral administration of decoction of Tukhm-i Karafs (Apium graveolens, Linn.), Anīsūn (Pimpinella anisum, Linn.), Bādiyān (Foeniculum vulgare, Gaertn.), Nānkhwāh (Ptychotis ajowan, DC.) and Bekh-i Kāsinī (Cichorium intybus, Linn.",
+                "Oral administration of the decoction of Chahār Gul with Maghz-i Falūs Khiyār Shanbar (Fruit pulp of Cassia fistula, Linn.)",
+                "mocal application of the paste of Khardal (Brassica nigra, Linn.) with cow mil"
+            ],
+            "comp_drug": [
+                "Qurs-i Afsantī",
+                "Qurs-i Rewan",
+                "Dawā’ al-Kurku",
+                "Qurs-i Zarishk Rewand",
+                "Gulqand ‘Asl",
+                "Sikanjabīn ‘Unsul",
+                "Roghan-i Yāsmī"
+            ],
+            "reg_theropy": [
+                "Riyāzat (Exercise",
+                "Hammām (Bath",
+                "Fasd-i Bāslīq (Bloodletting through basilic vein"
+            ],
+            "diet_recom": [
+                "Mā’ al-‘As"
+            ],
+            "diet_restrict": [
+                "Fruit",
+                "Dry fruit",
+                "Dairy product"
+            ],
+            "prevention": [
+                "Regimens that increase the production of phlegm should be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Phlegmatic Hepatiti"
+            ],
+            "disease_persian": [
+                "Waram-i Kabid Balghamī"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "Waram Rakhw (Soft swelling) of live",
+                "eaviness in right hypochondrium without pain and feve",
+                "softness on palpation along with the features of predominance of phleg"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "predominance of Balgham (Phlegm) accumulated either due to excessive production or its deficient resolutio"
+            ],
+            "principle_of_treatment": [
+                "Taqlīl-i Ghizā  (Dietary control",
+                "Tanqiya-i Balgham  (Evacuation of phlegm) through Ishāl (Purgation) and Idrār (Diuresis",
+                "Taqwiyat-i Mi‘da o Jigar (Toning up of stomach and liver",
+                "Taskhīn-i Jigar (Calefaction of liver"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of decoction of Afsantīn (Artemisia absinthium, Linn.) with Castor oi",
+                "Joshānda-i Fawāki",
+                "Oral administration of decoction of Tukhm-i Karafs (Apium graveolens, Linn.), Anīsūn (Pimpinella anisum, Linn.), Bādiyān (Foeniculum vulgare, Gaertn.), Nānkhwāh (Ptychotis ajowan, DC.) and Bekh-i Kāsinī (Cichorium intybus, Linn.",
+                "Local application of the paste of Khardal (Brassica nigra, Linn.) with cow mil"
+            ],
+            "comp_drug": [
+                "Qurs-i Afsantī",
+                "Qurs-i Rewan",
+                "Dawā’ al-Kurku",
+                "Qurs-i Zarishk Rewand",
+                "Gulqand ‘Asl",
+                "Sikanjabīn ‘Unsul",
+                "Roghan-i Yāsmī"
+            ],
+            "reg_theropy": [
+                "Riyāzat (Exercise",
+                "Hammām (Bath",
+                "Fasd-i Bāslīq (Bloodletting through basilic vein"
+            ],
+            "diet_recom": [
+                "Mā’ al-‘As"
+            ],
+            "diet_restrict": [
+                "Fruit",
+                "Dry fruit",
+                "Dairy product"
+            ],
+            "prevention": [
+                "Regimens that increase the production of phlegm should be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Melancholic Hepatiti"
+            ],
+            "disease_persian": [
+                "Waram-i Kabid Sawdāwī"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "Waram Sulb (Hard swelling) of liver1 having tendency of progression towards malignanc",
+                "heaviness in right  hypochondrium exacerbated after food intake, cachexia, loss of appetite, nausea, hiccup, blackish discoloration of skin and hardness on palpatio",
+                "prelude of ascitis and may be a predisposing factor of hepatic malignanc"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "accumulation of thick humours in the live",
+                "consequent to its Waram Hār or Waram Bāri"
+            ],
+            "principle_of_treatment": [
+                "Tanqiya-i Khilt Ghalīz  (Evacuation of thick humour)2 through Ishā",
+                "Taqlīl-i Ghizā (Dietary control"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of decoction of Gāozabān (Borago officinalis, Linn.), Bādiyān (Foeniculum vulgare, Gaertn.), Gul-i Ghāfis (Gentiana dahurica, Fisch.), Gulqand with Qurs-i Zarishk 4 g",
+                "Oral administration of decoction of Aftīmūn (Cuscuta reflexa, Roxb.), Sanā (Cassia angustifolia, Vahl.), Bādranjboya (Nepeta ruderalis, Ham.), Asl al-Sūs (Glycyrrhiza glabra, Linn.), Gāozabān (Borago officinalis, Linn.), Tukhm-i Kāsinī (Cichorium intybus, Linn.) with Ma‘jūn-i Najāh 7-10 gm"
+            ],
+            "comp_drug": [
+                "Habb-i Lājwar",
+                "Safūf-i Lājwar",
+                "Dawā’ al-Kurku",
+                "Dawā’ al-Lu",
+                "Qurs-i Zarishk",
+                "Sikanjabīn Bazūr",
+                "Sikanjabīn ‘Unsul",
+                "Tiryāq Arba‘"
+            ],
+            "reg_theropy": [
+                "Fasd-i Bāslīq (Bloodletting through basilic vein) of left han",
+                "Fasd-i Usaylim(Bloodletting through Usaylim vein) of right han"
+            ],
+            "diet_recom": [
+                "Mā’ al-Jub",
+                "Half fried eg",
+                "Kashk al-Sha‘ī",
+                "Camel mil"
+            ],
+            "diet_restrict": [
+                "Mea",
+                "Chees",
+                "Sea bird",
+                "All fruits except pomegranate and appl"
+            ],
+            "prevention": [
+                "Regimens that may increase the production of black bile should be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Sclerosis of Live"
+            ],
+            "disease_persian": [
+                "Salābat-i Kabi"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "liver becomes hard because of the stiffness of (Liver) tissu",
+                "heaviness in right hypochondrium without fever and thirs",
+                "cachexi",
+                "blackening of ski",
+                "decreased appetit",
+                "hardness of puls",
+                "decreased quantity of urine and soft stoo"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "accumulation of Sawdāwī Talchat (Melancholic sediments) that is retained in the ducts and parenchyma of liver1 due to incomplete evacuation of the causative humour from Waram-i Jigar (Hepatitis",
+                "liver injur"
+            ],
+            "principle_of_treatment": [
+                "Tanqiya-i Akhlāt Ghalīza (Evacuation of thick humours",
+                "Talyīn-i Kabid (Softening of liver tissue",
+                "Idrār-i Bawl  (Diuresis",
+                "Taftīh-i Sudad (Removal of obstruction",
+                "Taqwiyat-i Jigar  (Toning up of liver",
+                "Strong purgatives to be avoide"
+            ],
+            "pharmacotherapy": [
+                "Local application of following paste4: Sandalayn (Santalum album, Linn. & Pterocarpus santalinus, Linn.), Gul Surkh (Rosa damascena, Mill.), Banfsha (Viola odorata, Linn.) each 10 parts, Bābūna (Matricaria chamomilla, Linn.), Shibit (Anethum sowa, Roxb.), Nākhūna (Pods of Trigonella uncata, Boiss.) each 5 parts, Afsantīn (Artemisia absinthium, Linn.), Mastagī (Pistacia lentiscus, Linn.) each 3 parts",
+                "mocal application of Ushaq (Dorema ammoniacum, D. Don.) mixed with vinegar",
+                "Oral administration of Āb-i Barg-i Turb (Juice of leaves of Raphinus sativus, Linn.) along with Sikanjabīn"
+            ],
+            "comp_drug": [
+                "Qurs-i Zarish",
+                "Sharbat-i Dīnā",
+                "Zimad-i Qūtū"
+            ],
+            "reg_theropy": [
+                "Fasd (Bloodletting"
+            ],
+            "diet_recom": [
+                "Kashk al-Sha‘īr (Barley soup",
+                "Sarī‘ al-Hazm Aghziya (Easily digestible diets",
+                "Zardī-i Bayza-i Murgh (Egg yolk"
+            ],
+            "diet_restrict": [
+                "Sweet dishe",
+                "Fishe"
+            ],
+            "prevention": [
+                "Qābiz Ashiyā to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Jaundic"
+            ],
+            "disease_persian": [
+                "Yarqān Asfar"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "yellow discoloration of body ski",
+                "yellow discoloration of skin and eye",
+                "yellowish urine and stoo",
+                "biliary duct obstruction (Whitish stool",
+                "pain in right hypochondriu",
+                "nausea",
+                "vomitin",
+                "loss of appetit",
+                "excessive thirs",
+                "bitterness of tast",
+                "gastric pai",
+                "flatulence after food intak",
+                "constipatio",
+                "generalized itchin"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "excessive production or reduced excretion of bil",
+                "Waram-i Kabid (Hepatitis",
+                "Sudda-i Majārī-i Marāra (Biliary duct obstruction)",
+                "Ihāla al-Dam ila’l-Safrā’ (Haemolysis",
+                "drug induce"
+            ],
+            "principle_of_treatment": [
+                "Istifrāgh-i Mādda  (Evacuation of causative matter) through Ishāl (Purgation), Qay’ (Emesis) and Idrār (Diuresi",
+                "Islāh-i Mizāj-i Jigar  (Correction of hepatic temperament",
+                "Tahlīl-i Waram-i Jigar (Resolution of hepatic inflammation",
+                "Taqwiyat-i Jigar (Toning up of liver",
+                "Taftīh-i Sudad (Removal of obstructions"
+            ],
+            "pharmacotherapy": [
+                "Oral  administration  of  the  mixture  of  juice  of  leaves  of  radish 32 ml., Maghz-i Falūs Khiyār Shambar (Fruit pulp of Cassia fistula, Linn.) 24.5 ml., Tukhm-i Bathwa (Chenopodium album, Linn.) 3.5 gm. and Sibr (Aloe vera, Linn.) 500 m",
+                "Oral administration of decoction of peel of radish prepared in donkey mil",
+                "Oral administration of decoction of Masūr (Lens esculenta, Moench.), prepared in vinega",
+                "Joshānda-i Halayl",
+                "Oral administration of ‘Usāra-i Afsantīn (Extract of  Artemisia absinthium, Linn.)"
+            ],
+            "comp_drug": [
+                "Qurs-i Zarish",
+                "Sikanjabīn Bazūr",
+                "Qurs-i Kāfū",
+                "Qurs-i Ghāfi",
+                "Gāozab",
+                "Sharbat-i Rewan",
+                "Sharbat-i Afsantī",
+                "Sharbat-i Nīlofa",
+                "Sharbat Dīna",
+                "Arq-i Kāsin"
+            ],
+            "reg_theropy": [
+                "Complete physical and mental res",
+                "Fasd-i Bāslīq (Bloodletting through basilic vein)",
+                "Fasd-i Usaylim (Bloodletting through Usaylim vein",
+                "Hijāma (Cupping) below right shoulde",
+                "Hammām (Bath"
+            ],
+            "diet_recom": [
+                "Mā’ al-Sha‘ī",
+                "Mā’ al-Jub",
+                "Cucumbe",
+                "juice of vegetables of cold temperamen",
+                "juice of leaves of radis",
+                "Watermelon juic",
+                "Pomegranate juice at empty stomac"
+            ],
+            "diet_restrict": [
+                "Oily diet",
+                "Aghziya Qābiz",
+                "Aghziya Ghalīz"
+            ],
+            "prevention": []
+        },
+        {
+            "disease_eng": [
+                "Constipatio"
+            ],
+            "disease_persian": [
+                "Qabz"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "delayed defecation, where the quantity of stool reduces and becomes hard to pas",
+                "abdominal heavines",
+                "flatulenc",
+                "frequent passage of flatu",
+                "delayed and difficult defecatio",
+                "reduction in the quantity of stoo",
+                "complete bowel evacuation takes place after several visits to toile"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "intake of less quantity of foo",
+                "constipative and flatulent diet",
+                "weakened intestinal sensation and muscle",
+                "decreased flow of secretions towards intestin"
+            ],
+            "principle_of_treatment": [
+                "Talyīn-i Taba‘ (Laxation of bowels",
+                "Raf‘-i Qabz (Removal of constipation",
+                "Taqwiyat-i Am‘ā’ (Toning up of intestines"
+            ],
+            "pharmacotherapy": [
+                "Oral  administration  of  husk  of  Aspghol  (Plantago  ovata,  Forsk.) 6 g",
+                "Oral administration of powder of Banafsha (Viola odorata, Linn.) mixed with equal quantity of sugar at bed time with lukewarm wate",
+                "Oral administration of crushed Anjīr (Ficus carica, Linn.) 10 parts, Maghz-i Qurtum (Seed kernel of Carthamus tinctorius, Linn.) 1 part in the dose of 21 g",
+                "Local application of pessary made up of soap, especially in childre"
+            ],
+            "comp_drug": [
+                "Roghan-i Bed-i Anjī",
+                "Sharbat-i Dīnā",
+                "Sharbat-i Banafsh",
+                "oghan-i Bādā",
+                "Sharbat Mulayyi",
+                "Itrīfal Mulayyi",
+                "Habb-i Ghārīqū",
+                "Habb-i Muqi",
+                "Habb Mulayyi",
+                "Sharbat-i Anjī",
+                "Sharbat Mulayyi",
+                "Ma‘jūn-i Anjī",
+                "Qurs Mulayyi"
+            ],
+            "reg_theropy": [
+                "Hammām (Bath) at empty stomac"
+            ],
+            "diet_recom": [
+                "Mā’ al-Jub",
+                "Fi",
+                "Almon",
+                "Mawīz Munaqq"
+            ],
+            "diet_restrict": [
+                "Aghziya Munaffikh",
+                "Aghziya Qābiz",
+                "Aghziya Ghalīz"
+            ],
+            "prevention": [
+                "Regimens causing constipation to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Diarrhoe"
+            ],
+            "disease_persian": [
+                "Ishāl"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "drives away the matters from the entire body towards rectu",
+                "repeated defecation with excretion of faecal matter, sometimes mixed with mucus, blood, pus, et",
+                "indigestio",
+                "flatulence and gurglin"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "food material (if quantity or quality is defective) and many diseases of intestine and other organs such as stomach, liver, brain, et"
+            ],
+            "principle_of_treatment": [
+                "Izāla-i Sabab (Removal of causative factor",
+                "Habs-i Ishāl (Checking of diarrhoea) through Mugharriyāt (Mucilaginous substances) and substances making the matter thicke",
+                "Imāla-i Mawād (Diversion of matter",
+                "Taqwiyat-i Mi‘da o Am‘ā (Toning up of stomach & intestine",
+                "Rehydratio"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of the decoction of Jaw Biryān (Roasted seed of Hordeum vulgare, Linn.), Khatmī (Althaea officinalis, Linn.), Zar-i Ward (Stamen of Rosa damascena, Mill.), Post-i Khashkhāsh (Rind of Papaver somniferum, Linn.) with Sharbat-i Ā",
+                "Oral administration of the powder of Jaw Biryan (Roasted seed of Hordeum vulgare, Linn.)",
+                "Oral administration of mucilaginous decanted liquid, prepared from Aspghol Musallam (Plantago ovata, Forsk.), Resha Khatmī (Rootlet of Althaea officinalis, Linn.) and Behīdāna (Cydonia oblonga, Mill.) with Sharbat-i Banafsh",
+                "Oral administration of powder of Tukhm-i Khurfa (Portulaca oleracea, Linn.), Khashkhāsh (Seed of Papaver somniferum, Linn.) and Kishnīz Khushk (Coriandrum Sativum, Linn.",
+                "Oral administration of Tukhm-i Rayhān (Ocimum sanctum, Linn.) and Tukhm-i Bārtang (Plantago major, Linn.",
+                "Sipping of Āb Āhan Tāb (Water in which hot iron rod is immersed"
+            ],
+            "comp_drug": [
+                "Anūshdārū Qābi",
+                "Jawārish-i Āml",
+                "Jawārish-i Zarish",
+                "Jawārish-i Zanjabī",
+                "Safūf Miqliyās",
+                "Safūf-i Tīn",
+                "Sharbat-i Habb al-Ā",
+                "Ma‘jūn-i Sangdāna Murg"
+            ],
+            "reg_theropy": [
+                "Physical res",
+                "Hammām (Bath",
+                "Dalk (Massage"
+            ],
+            "diet_recom": [
+                "Mā’ al-Sha‘īr",
+                "Butter mil",
+                "Cur"
+            ],
+            "diet_restrict": [
+                "Fruit",
+                "Large quantity of foo",
+                "Foods of bad tast",
+                "Aghziya Munaffikh"
+            ],
+            "prevention": [
+                "Intake of food without desire to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Dysenter",
+                "Intestinal Worm"
+            ],
+            "disease_persian": [
+                "Zahī",
+                "Dīdān-i Am‘"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "inevitable and repeated urge for defecation, while only small quantity of mucus and blood passes at every sittin",
+                "repeated urge for defecation along with heaviness in abdome",
+                "pai",
+                "abdominal distentio",
+                "tenesmu",
+                "occasional feve",
+                "decreased appetit",
+                "worms grow and lodge in different parts of the intestin",
+                "abdominal pai",
+                "grinding of teet",
+                "feeling of worm’s movement especially at empty stomac",
+                "nause",
+                "excessive salivation (in case of Hayyāt",
+                "worms in faeces resembling to seeds of pumpkin (in case of Habb al-Qara‘",
+                "anal irritation (in case of Dūd al-Khall"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Phlegmatic secretio",
+                "Abnormal hea"
+            ],
+            "cause_persian": [
+                "Rutūbat Balghamiyy",
+                "Harārat Gharība"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "dry faecal matter (Zahīr Kāzib",
+                "Rutūbat Māliha Lazzā‘a (Irritant salty fluid) of intestin",
+                "inflammatio",
+                "abrasion of large intestine (Zahīr Sādiq",
+                "Balgham ‘Afin (Putrefied phlegm",
+                "putrefaction of Rutūbat Balghamiyya (Phlegmatic secretion) in the intestine giving rise to Harārat Gharība (Abnormal heat"
+            ],
+            "principle_of_treatment": [
+                "Taqlīl-i Ghizā’ (Dietary control",
+                "alyīn (Laxation)  through  Muzliqāt (Mucilaginous  drugs)  and Mugharriyāt (Mucilaginous drugs",
+                "Taskīn-i Hiddat-i Khilt (Neutralization of irritating causative humour",
+                "Tahlīl-i Waram (Resolution of inflammation",
+                "Qatl-i Dīdān (To kill the worms",
+                "Ikhrāj-i Dīdān (To expel the worms"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of Aspghol Musallam (Plantago ovata, Forsk.) with Roghan-i Banafsh",
+                "Linn.) 7 gm. with lukewarm wate",
+                "Oral administration of Aspghol Musallam (Plantago ovata, Forsk.)",
+                "Oral administration of powder of Tukhm-i Rayhān Biryān (Roasted seed of Ocimum sanctum, Linn.) and Samagh ‘Arabī Biryān (Roasted gum of Acacia Arabica, Willd.) 3-6 gm. twice a da",
+                "Oral administration of mucilaginous decanted liquid prepared from Aspghol Musallam (Seed of Plantago ovata, Forsk.), Resha Khatmī (Rootlet of Althaea officinalis, Linn.) and Behīdāna (Seed of Cydonia oblonga, Mill.",
+                "Oral administration of following formulation 3: Coarse powder of Bāobarang (Embelia ribes, Burm.) is taken and its rind is removed and mixed with sugar and clarified butter",
+                "Shonīz (Nigella sativa, Linn.) soaked in the juice of Hanzal (Citrullus colocynthis, Schard.) or decoction of its pulp is ground and pasted on abdomen especially around the ubmbilicus.",
+                "Powder of Post-i Bekh-i Tūt (Morus indica, Linn.), Shonīz (Nigella sativa, Linn.), Afsantīn (Artemisia absinthium, Linn.) each in equal quantity along with Akhrot (Walnut) on day fist, milk on day second and sugar on day third",
+                "Roghan-i Barg-i Nīm/ Āb-i Barg-i Nīm (Azardiracta indica, Linn) Q.S. may be instilled in the anal orific",
+                "Roghan-i Mishmish Talkh (Oil of Prunus armeniaca, Linn.) may be applied around the anu"
+            ],
+            "comp_drug": [
+                "Safūf-i Tī",
+                "Safūf Miqliyās",
+                "Jawārish Shahryarā",
+                "Tiryāq-i Pechis",
+                "Habb-i Pechis",
+                "Itrīfal Qimbīl",
+                "Itrīfal Habb al-Qar",
+                "Habb Qātil-i Dīdā",
+                "Ma‘jūn-i Sarkha",
+                "Itrīfal Dīdān"
+            ],
+            "reg_theropy": [
+                "Moderate Takmīd Hār (Hot fomentation",
+                "Huqna (Enema) with Mā’ al-‘Asl mixed with lukewarm wate",
+                "Ābzan (Sitz bath",
+                "Huqna (Enema"
+            ],
+            "diet_recom": [
+                "maxative diet",
+                "Ripe fruit"
+            ],
+            "diet_restrict": [
+                "Aghziya Ghalīz",
+                "Aghziya Lazija o Ratab",
+                "Aghziya Ghalīz"
+            ],
+            "prevention": [
+                "Qābiz (Constrictive) and Hābis (Retentive) drugs to be avoided in the initial stag",
+                "Unripe fruits to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [],
+            "disease_persian": [
+                "Rīh al-Bawāsī"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "Ghalīz Sawdāwī Rīh (Thick melancholic vapour) is produced within the intestines, reaching occasionally to the other parts of the body1, especially lower abdome",
+                "colicky pai",
+                "gastric flatulenc",
+                "gurglin",
+                "general weaknes"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [
+                "Thick vapour",
+                "Black bil"
+            ],
+            "cause_persian": [
+                "Riyāh Ghalī"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Riyāh Ghalīz (Thick vapours",
+                "Sawdā’ (Black bile",
+                "Sawd"
+            ],
+            "principle_of_treatment": [
+                "Tahlīl-i Riyāh (Resolution of vapours",
+                "Talyīn (Laxation",
+                "Tanqiya-i Sawdā’ (Evacuation of black bile) through purgative"
+            ],
+            "pharmacotherapy": [
+                "Joshānda-i Aftīmū",
+                "Oral administration of powder of Post-i Bekh-i Kibr (Capparis spinosa, Linn.) 1 part and Sa‘tar Fārsī (Zataria multiflora, Boiss.) ½ par",
+                "Oral administration of powder of Hiltīt Biryān (Roasted asafoetida) 480 mg., Bekh-i Kibr (Root of Capparis spinosa, Linn.) 1 gm. mixed with Gulqan",
+                "Oral administration of powder of Aftīmūn (Cuscuta reflexa, Roxb.) with Mā’ al-Jub",
+                "Oral administration of Muqil (Balsamodendron mukul, Hook.) 1 gm., mixed with Itrīfal Kishnīzī, 12 gm. along with lukewarm wate",
+                "Oral administration of Shīra of Khiyārayn (Cucumis sativus, Linn.) with Sharbat Dīnār",
+                "Oral administration of the decoction of Hulba (Trigonella foenum-graeceum, Linn.)."
+            ],
+            "comp_drug": [
+                "Jawārish Kamūn",
+                "Jawārish-i Jālīnū",
+                "Ma‘jūn-i Dabīd al-War",
+                "Habb-i Muqi",
+                "Itrīfal Saghī",
+                "Itrīfal-i Muqi",
+                "Sikanjabīn Aftīmūn"
+            ],
+            "reg_theropy": [
+                "Dalk (Massage",
+                "Hammām (Bath",
+                "Riyāzat (Exercise",
+                "Fasd-i Bāslīq (Bloodletting through basilic vein",
+                "Fasd-i Sāfin (Bloodletting through saphenous vein",
+                "Hijāma (Cupping) on anal regio"
+            ],
+            "diet_recom": [
+                "Mā’ al-Jub"
+            ],
+            "diet_restrict": [
+                "Aghziya Muwallid-i Sawdā",
+                "Aghziya Munaffikh"
+            ],
+            "prevention": [
+                "Regimens producing black bile to be avoided"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Non-Bleeding Pile"
+            ],
+            "disease_persian": [
+                "Bawāsīr ‘Amiy"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "mass developed in vessels of anal cana",
+                "presence of yellowish green mas",
+                "pain and itching in the anu"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Dam Ghalīz Sawdāwī (Thick melancholic sanguine"
+            ],
+            "principle_of_treatment": [
+                "Istifrāgh (Evacuation",
+                "Taftīh-i Sudad (Removal of obstruction",
+                "Talyīn (Laxation",
+                "Taskīn-i Alam (Analgesia)",
+                "Tahlīl-i Waram (Resolution of swelling)"
+            ],
+            "pharmacotherapy": [
+                "Joshānda-i Aftīmū",
+                "Joshānda-i Halayl",
+                "mocal application of bone marro",
+                "Local application of following formulation for analgesia 2: Nākhūna (Pod of Trigonella uncata, Boiss.), Khatmī (Althaea officanalis, Linn.), Afyūn (Dried latex of Papaver somniferum, Linn.), Za‘farān (Crocus sativus, Linn.)",
+                "Ābzan (Sitz bath)2: Post-i Anār (Fruit rind of Punica granatum, Linn.), Māzū (Quercus infectoria, Oliv.), Zar-i Ward (Stamens of Rosa damascena, Mill.), Gulnār (Flower of Punica granatum Linn."
+            ],
+            "comp_drug": [
+                "Habb-i Rasaw",
+                "Itrīfal Saghī",
+                "Habb-i Muqi",
+                "Itrīfal-i Muqil Mulayyi",
+                "Murabba-i Halayl",
+                "Roghan Zar"
+            ],
+            "reg_theropy": [
+                "Fasd-i Sāfin (Bloodletting through saphenous vein",
+                "Ābzan (Sitz bath",
+                "Res"
+            ],
+            "diet_recom": [
+                "Aghziya Latīfa Martūb"
+            ],
+            "diet_restrict": [
+                "Muwallid-i Sawdā Aghziya"
+            ],
+            "prevention": [
+                "Muwallid-i Sawdā Tadābīr (Black bile procreative regimens) to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Bleeding Pile"
+            ],
+            "disease_persian": [
+                "Bawāsīr Dāmiy"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "one or more masses develop  in  and around the anu",
+                "Bleeding or pus discharge takes place regularly1 at interval",
+                "heaviness, pain and burning sensation in the anus and bleeding through it during defecatio"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "accumulation of Dam Sawdāwī (Melancholic sanguine) in the anal vessels resulting in their engorgement and subsequent ulceratio"
+            ],
+            "principle_of_treatment": [
+                "Islāh-i Ghizā (Dietary regulation",
+                "Talyīn (Laxation",
+                "Tanqiya-i Dam Fāsid o Khilt Sawdāwī (Evacuation of impure sanguine & black bile",
+                "Taskīn-i Dard (Analgesia",
+                "Habs-i Dam (Haemostasis) in case of excessive bleedin",
+                "Indimāl (Healing",
+                "Local application of a paste containing egg yolk, barley flour and Roghan-i Gul",
+                "mocal application of a paste containing egg yolk and Roghan-i Gul",
+                "Local application of old olive oi",
+                "Ābzan (Sitz bath) with the decoction of Khatmī (Althaea officinalis, Linn.), Khubbāzī (Malva sylvestris, Linn.) and Banafsha (Viola odorata, Linn.)",
+                "Ābzan (Sitz bath) with the decoction of Masūr (Lens esculenta, Moench.), Post-i Anār (Fruit rind of Punica granatum, Linn.), Māzū (Quercus infectoria, Oliv.) and Zar-i Ward (Stamen of Rosa damascena, Mill."
+            ],
+            "pharmacotherapy": [],
+            "comp_drug": [
+                "Qurs-i Kahrub",
+                "Habb-i Muqi",
+                "Habb-i Khubs al-Hadī",
+                "Habb-i Rasaw",
+                "Marham-i Murdār San",
+                "Marham-i Asfīdā",
+                "Itrīfal Saghīr",
+                "Ma‘jūn-i Muqi"
+            ],
+            "reg_theropy": [
+                "Fasd-i Sāfin (Bloodletting through saphenous vein",
+                "Hijāma (Cupping) on hi"
+            ],
+            "diet_recom": [
+                "Aghziya Latīf",
+                "Zūd Hazm Aghziy"
+            ],
+            "diet_restrict": [
+                "Aghziya Ghalīza",
+                "Aghziya Muwallid-i Sawdā (Black bile producing foods",
+                "Spice"
+            ],
+            "prevention": [
+                "Muwallid-i Sawdā Tadābīr (Black bile procreative regimens) to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Renal Calcul"
+            ],
+            "disease_persian": [
+                "Hasāt-i Kuliya"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "stones are formed within the kidney",
+                "heaviness in lower bac",
+                "excruciating pain (that radiates towards thigh) and excretion of crystals through urin"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Khilt Ghalīz (Thick humour) that has got condensed by the effect of Harārat Nāriyya (Extreme heat"
+            ],
+            "principle_of_treatment": [
+                "Idrār-i Bawl (Diuresis",
+                "Tanqiya-i Balgham (Evacuation of phlegm",
+                "Taftīt-i Hasāt (Lithotripsy",
+                "Talyīn (Laxation",
+                "Taskīn-i Dard (Analgesia",
+                "Taqlīl-i Ghizā (Decrease in food quantity",
+                "Tamrīkh (Rubbing the skin with oil"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of powder of Ajwā’in Khurāsānī (Hyoscyamus niger, Linn.) 250-500 mg. with sugar",
+                "Oral administration of decoction of Maghz-i Falūs Khiyār Shanbar (Fruit pulp of Cassia fistula, Linn.) 36 gm. mixed with old jaggery 36 gm",
+                "Oral administration of powder/infusion of Habb al-Qilt (Seed of Dolichos biflorus, Linn.) 6 gm. with suga",
+                "Oral administration of decoction of Gul-i Dā’ūdī (Chrysanthemum coronarium, Linn.) 42 g",
+                "Oral administration of powder of Jawakhār (Potassium carbonate) with suga",
+                "Oral administration of powder of Jawakhār (Potassium carbonate) 2 gm. and Suhāga (Borax) 2 gm. with Shīra-i Khār Khasak (Tribulus terristris, Linn.",
+                "Oral administration of Shīra-i Barg-i Shahdi’ī (Vernonia cinerea, Less.) 12 gm. mixed with Shora Qalamī (Potassium nitrate) 2 g",
+                "Ābzan (Sitz Bath) with lukewarm wate"
+            ],
+            "comp_drug": [
+                "Ma‘jūn-i Hajr al-Yahūd",
+                "Barsha‘sh",
+                "Sharbat-i Ālū Bāl",
+                "Safūf-i Hajr al-Yahū",
+                "Ma‘jūn-i Sang-i Sar-i Māh",
+                "Sikanjabīn ‘Unsul",
+                "Sikanjabīn Usūl",
+                "Sikanjabīn Bazūr",
+                "Ma‘jūn-i ‘Aqra",
+                "Kushta-i Hajr al-Yahū",
+                "Roghan-i Bābūn"
+            ],
+            "reg_theropy": [
+                "Moderate exercise followed by Hammām (Bathing) before food intak",
+                "Ābzan (Sitz Bath",
+                "Qay’ (Emesis",
+                "Fasd-i Bāslīq (Bloodletting through basilic vein",
+                "Takmīd (Fomentation"
+            ],
+            "diet_recom": [
+                "Sarī ‘ al-Hazm Aghziy",
+                "Excessive intake of cold wate"
+            ],
+            "diet_restrict": [
+                "Difficult to digest diets, producing thick humour/Aghziya Ghalīz"
+            ],
+            "prevention": [
+                "Regimens that may produce thick humour should be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Burning Micturation"
+            ],
+            "disease_persian": [
+                "Hurqat-i Baw"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "burning sensation during micturatio",
+                "feve",
+                "chills and pain in lower abdome",
+                "ulcers there will be discharge of pus during urinatio"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "increased acidity of urin",
+                "scarcity of Rutūbat-i Mazī (Prostatic secretion)",
+                "development of ulcers in urinary trac"
+            ],
+            "principle_of_treatment": [
+                "Istifrāgh (Evacuation) with mild laxatives (when not associated with ulcers",
+                "Idrār (Diuresis",
+                "Qay’ (Emesis",
+                "Use of Mugharriyāt (Mucilaginous drugs) orally and locally (in the form of Zarūq",
+                "Aghziya Mubarrida o Murattib",
+                "Oral administration of the following formulation2: Lu‘āb-i Behīdāna (Cydonia oblonga, Linn.), Lu‘āb-i Aspghol (Plantago ovata, Linn.) along with cold water",
+                "Pharmaceutical preparations of Khashkhāsh (Seeds of Papaver somniferum, Linn."
+            ],
+            "pharmacotherapy": [],
+            "comp_drug": [
+                "Banādiq al-Buzū",
+                "Sharbat-i Banafsh",
+                "Sharbat Bazūrī Bāri",
+                "Qurs-i Kākna",
+                "Qurs-i Kāhrub",
+                "Qurs-i Tabāshī"
+            ],
+            "reg_theropy": [
+                "Res",
+                "Muddirāt (Diuretics",
+                "Mushilāt Latīfa (Mild purgatives"
+            ],
+            "diet_recom": [
+                "Use of mil",
+                "Kashk al-Sha‘īr (Barley soup",
+                "Bayza Nīm Brisht (Half fried egg",
+                "Aghziya Mubarrida o Murattib"
+            ],
+            "diet_restrict": [
+                "Sweets and salty and acrid dishe"
+            ],
+            "prevention": [
+                "Fatigue to be avoide",
+                "Excessive coitus to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [],
+            "disease_persian": [
+                "Bawl fi’l-Firās",
+                "Nocturnal Enuresi"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "child involuntarily passes urine during slee",
+                "nvoluntary voiding of urine while aslee"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "excessive fluid intak",
+                "use of diuretic fruits and vegetable",
+                "flaccidity of the muscles of bladde",
+                "Sū’-i Mizaj Bārid (Cold morbid temperament) of bladde",
+                "constipatio",
+                "Hiddat-i Bawl (Urine, causing irritation",
+                "deep slee"
+            ],
+            "principle_of_treatment": [
+                "Taqlīl-i Ghizā (Decrease in food quantity",
+                "qwiyat-i Masāna (Toning up of bladder",
+                "Ta‘dīl-i Mizāj-i Masāna (Correction of bladder’s temperament"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of powder of Sa‘d (Cyperus rotundus, Linn.), Kundur (Boswellia serrata, Roxb.), Khulanjān (Alpinia Khulanjan, M. Sheriff.), Habb al-Ās (Myrtus communis, Linn.), Juft Balūt (Quercus incana, Roxb.) and Gulnār (Punica granatum, Linn.",
+                "Linn.) and Māzū Khām (Unripe Quercus infectoria, Oliv.",
+                "3.5 gm., Kundur (Boswellia serrata, Roxb.) 3.5 gm., Sugar 7 gm. in mornin",
+                "Oral administration of fried testicles of goa"
+            ],
+            "comp_drug": [
+                "Ma‘jūn-i Falāsif",
+                "Ma‘jūn Māsik al-Baw",
+                "Ma‘jūn-i Kundu",
+                "Ma‘jūn-i Balū",
+                "Gulqand ‘Asl",
+                "Roghan-i Bā"
+            ],
+            "reg_theropy": [
+                "Takmīd Hār (Hot fomentation"
+            ],
+            "diet_recom": [
+                "Aghziya Hārr",
+                "Spice"
+            ],
+            "diet_restrict": [
+                "Aghziya Mubarrid",
+                "Aghziya Murattib",
+                "Cold drink",
+                "Diuretic fruits and vegetables such as muskmelon, cucumber, et"
+            ],
+            "prevention": [
+                "Intake of solids and liquids especially in the evening to be avoide",
+                "Instruction to patient to pass the urine before going to be",
+                "Excessive intake of drinks to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Spermatorrhe"
+            ],
+            "disease_persian": [
+                "Jarayā"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "involuntary discharge of seminal fluid without having any Shahwat (Desire) for se",
+                "emission of seminal fluid even on mild sexual stimulatio",
+                "semen appears before or after urinatio"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "inordinate production of seminal fluid of thin consistenc",
+                "weakness of seminal vesicle or its spas",
+                "excessive use of semen producing diet",
+                "avoiding sexual relationship and weakness of kidney"
+            ],
+            "principle_of_treatment": [
+                "Taqlīl-i Ghizā (Dietary control) when the cause is excessive production of seminal flui",
+                "aqlīl-i Manī (To suppress the semen production) by using Muqallilāt-i Manī (Oligoseminics), when the cause is increased production of seminal flui",
+                "Taghlīz-i Manī (To make the semen thick), when the cause is thin consistency of seminal flui",
+                "Taqwiyat-i Gurda (Toning up of kidneys"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of Shīra-i Tālmakhāna (Astracantha longiforia, Nees.) 4 gm., Shīra-i Tukhm-i Kāhū (Lactuca sativa, Linn.) 4 gm., Shīra-i Maghz-i Tukhm-i Kadū (Cucurbita moschata, Duchesne.) 6 gm., Shīra-i Maghz-i Tukhm-i Hindū Dāna (Citrullus vulgaris, Linn.) 6 gm. along with Sharbat-i Banafsha 24 ml",
+                "Milk of banyan tree instilled in Batāsha and taken orally",
+                "Oral administration of Tukhm-i Bālangā (Lallemantia royleana, Benth.) 9 gm. along with cow milk",
+                "Oral administration of Tukhm-i Sarwālī (Tagetes erecta, Linn.) 3 gm. along with wate",
+                "Oral administration of Tukhm-i Konch (Mucuna puriens, Bak.) 10.5 gm. along with cow mil"
+            ],
+            "comp_drug": [
+                "Ma‘jūn Jalāl",
+                "Kushta-i Qal‘",
+                "Safūf-i Bīj Ban",
+                "Ma‘jūn-i Sa‘la",
+                "Ma‘jūn -i Ārd-i Khurm",
+                "Ma‘jūn -i Pethā Pā",
+                "Ma‘jūn -i Reg Māh"
+            ],
+            "reg_theropy": [
+                "Moderate exercis",
+                "Involvement in sexual relationship"
+            ],
+            "diet_recom": [
+                "Aghziya Latīf",
+                "Aghziya Hāmiz"
+            ],
+            "diet_restrict": [
+                "Mil",
+                "Aghziya Munaffikh"
+            ],
+            "prevention": [
+                "Sexual stimulants to be avoide",
+                "Constipation to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Excessive Nocturnal Emissio"
+            ],
+            "disease_persian": [
+                "Kasrat-i Ihtilā"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "brupt discharge of semen during sleep more than twice a month with or without erotic dream",
+                "ejaculation of seminal fluid with or without sexual pleasure during sleep followed by lethargy and general weaknes"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "over production of seminal fluid or its thin consistency",
+                "weakness of seminal vesicle or its spas",
+                "excessive use of semen producing diet",
+                "avoiding sexual act for a longer duration of time",
+                "weakness of kidney"
+            ],
+            "principle_of_treatment": [
+                "Taqlīl-i Ghizā (Dietary control), when the cause is excessive production of seminal fluid.",
+                "Taqlīl-i Manī (To suppress the semen production) by using Muqallilāt-i Manī (Oligoseminics), when the cause is excessive production of seminal fluid",
+                "Taghlīz-i Manī (To make the semen thick), when the cause is low consistency of seminal flui",
+                "Taqwiyat-i Gurda (Toning up of kidneys"
+            ],
+            "pharmacotherapy": [
+                "Kishnīz Khushk (Coriandrum sativum, Linn.) 1 part, Sugar 1 part to be taken orally in the form of powde",
+                "Sharbat-i Nīlofar to be taken orall"
+            ],
+            "comp_drug": [
+                "Ma‘jūn Jalāl",
+                "Kushta-i Qal‘",
+                "Safūf-i Bīj Ban",
+                "Ma‘jūn-i Sa‘la",
+                "Ma‘jūn -i Ārd-i Khurm",
+                "Ma‘jūn -i Pethā Pā",
+                "Ma‘jūn -i Reg Māh"
+            ],
+            "reg_theropy": [
+                "Moderate exercis",
+                "Involvement in sexual relationshi"
+            ],
+            "diet_recom": [
+                "Aghziya Latīf",
+                "Aghziya Hāmiz"
+            ],
+            "diet_restrict": [
+                "Mil",
+                "Aghziya Munaffikh"
+            ],
+            "prevention": [
+                "Sleeping in supine position to be avoide",
+                "Sexual stimulants to be avoide",
+                "Soft and silky bed roll to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Premature Ejaculatio"
+            ],
+            "disease_persian": [
+                "Sur‘at-i Inzāl"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "ejaculation of semen takes place before reaching to the point of satisfactio",
+                "ejaculation of semen during foreplay or shortly after the insertion of peni"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "predominance of Burūdat (Cold) and Rutūbat (Wetness) leading to the weakening of Quwwat Māsika (Retentive power",
+                "Kasrat-i Manī (Excess of semen",
+                "predominace of Dam (Sanguine",
+                "Hurqat o Hiddat-i Manī (Increased motility and acuteness of semen",
+                "Zu‘f-i A‘zā Ra’īsa (Weakness of vital organs)",
+                "Ittisā‘-i Majārī-i Qazīb (Dialatation of passages for semen",
+                "Sū’-i Mizāj Hār (Hot morbid temperament) of kidneys and testicles and it may be congenital als"
+            ],
+            "principle_of_treatment": [
+                "Tanqiya-i Balgham (Evacuation of phlegm) in case of causative factor being predominance of Burūdat (Cold) and Rutūbat (Wetness",
+                "Taqlīl-i Ghizā (Dietary control",
+                "Tabrīd (Cooling) in case of causative factor being Hurqat o Hiddat-i Man",
+                "Taqwiyat-i ‘Azw (Toning up of related organ"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of Safūf (Powder) of Maghz-i Tamar Hindī (Seed kernel of Tamarindus indica, Linn.",
+                "Oral administration of Safūf (Powder) of Tukhm-i Sad Barg (Seed of Calendula officinalis, Linn.) mixed with equal quantity of sugar in the dose of 21 g"
+            ],
+            "comp_drug": [
+                "Habb-i Jadwā",
+                "Ma‘jūn Jalāl",
+                "Ma‘jūn -i Aspan",
+                "Habb Mumsi",
+                "Habb-i Nishā",
+                "Ma‘jūn Mumsi",
+                "Safūf-i Maghz-i Kanwa",
+                "Sharbat-i Khashkhās",
+                "Tilā Mumsi"
+            ],
+            "reg_theropy": [
+                "(Wetness) serve as causative factor",
+                "Burūdat (Cold) and Rutūbat (Wetness",
+                "Fasd (Bloodletting) in case of causative factor being predominance of Dam (Sanguine"
+            ],
+            "diet_recom": [
+                "Aghziya Hāmiz",
+                "Aghziya Bārida Ratab",
+                "Pomegranate juic",
+                "Tangerine juic"
+            ],
+            "diet_restrict": [
+                "Muwallid-i Khūn Aghziya (Haemopoetic diets",
+                "Mea"
+            ],
+            "prevention": [
+                "Alcohol to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Oligospermi"
+            ],
+            "disease_persian": [
+                "Qillat-i Manī"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "Zu‘f-i Bāh (Sexual debility) exhibited by scanty semen production. It represents features that are contrary to Sayalān-i Manī (Excessive production of semen",
+                "low quantity of semen and suppressed libido along with specific features of causative factor"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Zu‘f-i Badan (General debility",
+                "Qillat-i Ghizā (Malnourishment",
+                "Burūdat-i Ālāt-i Manī (Coldness of semen producing organs",
+                "Harārat-i Ālāt-i Manī (Increased temperature of semen producing organs),",
+                "Rutūbat-i Ālāt-i Manī (Wetness of semen producing organs",
+                "Yubūsat-i Ālāt-i Manī (Dryness of semen producing organs",
+                "Kasrat-i Istifrāgh (Excessive evacuation"
+            ],
+            "principle_of_treatment": [
+                "Taghziya (To provide nutrition), when caused by Qillat-i Ghiz",
+                "Engagement in lively happy lif",
+                "Taqwiyat-i Hazm (Improving digestion",
+                "Tawlīd-i Manī (Semen procreation"
+            ],
+            "pharmacotherapy": [
+                "Oral administration of Maghz-i Chilghoza (Pinus gerardiana, Wall. ex D. Don.) along with suga",
+                "Oral    administration\tof\tMaghz-i    Bādām\tShīrīn\t(Prunus amygdalus,Batsch.) along with suga"
+            ],
+            "comp_drug": [
+                "Labūb Kabī",
+                "Murabbā-i Zanjabī",
+                "Murabbā-i Gaza",
+                "Ma‘jūn-i Khubs al-Hadīd",
+                "Habb-i Jadwā",
+                "Halwa-i Sa‘la",
+                "Halwa-i Bayza-i Murg",
+                "Ma‘jūn-i Piyā",
+                "Ma‘jūn-i Sa‘la"
+            ],
+            "reg_theropy": [
+                "Hammām Murattib  (Wetness  producing  bath),  when  caused  by Yubūsat-i Ālāt-i Manī",
+                "Fasting when caused by Burūdat-i Ālāt-i Man",
+                "Mild exercise when caused by Burūdat-i Ālāt-i Manī",
+                "Enjoy lively happy life"
+            ],
+            "diet_recom": [
+                "Bayza Nīm Brisht (Half fried egg",
+                "Halwa Jā"
+            ],
+            "diet_restrict": [],
+            "prevention": [
+                "Sexual relationship to be avoide",
+                "Smoking and tobacco consumption to be avoide"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Leucorrhoe"
+            ],
+            "disease_persian": [
+                "Sayalān-i Rahim"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "excessive vaginal discharge of varying colours1 often with foul smel",
+                "excessive discharge from the uteru",
+                "foul smelling in case of accumulation of waste product",
+                "colour of discharge indicates the nature of predominant humou",
+                "painfull coitus",
+                "dysuri",
+                "lower abdominal pai",
+                "decreased appetite",
+                "change in complexio"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [
+                "Quwwat Ghāziya (Nutritive faculty) of uterus or accumulation of waste products of Balghamī (Phlegmatic",
+                "Safrāwī (Bilious",
+                "Sawdāwī (Melancholic)",
+                "or Damawī (Sanguineous) type in the uteru"
+            ],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [],
+            "principle_of_treatment": [
+                "First step-Istifrāgh (Evacuation) of the predominant humour from the bod",
+                "Second step- Tanqiya (Evacuation) of waste products from uteru",
+                "Tajfīf (Desiccation) through use of Mujaffifāt (Dessicant drugs",
+                "Inqibāz (Constriction) through use of Qābizāt (Astringent drugs",
+                "Taqwiyat-i Rahim (Toning up of uterus"
+            ],
+            "pharmacotherapy": [
+                "Izkhar (Andropogan jwarancusa, Jones."
+            ],
+            "comp_drug": [
+                "Ayāraj-i Fayqr",
+                "Ma‘jūn Muqawwī-i Rahi",
+                "Ma‘jūn Suhāg Sont",
+                "Safūf-i Sayalā",
+                "Ma‘jūn-i Supārī Pā"
+            ],
+            "reg_theropy": [
+                "Fasd (Bloodletting",
+                "Ishāl (Purgation",
+                "Dalk-i Sāqayn (Massage of calves) with Roghan-i Izkhar mixed with Āqarqarhā (Anacyclus pyrethrum, DC.) and Filfil (Piper nigrum, Linn.",
+                "Ābzan (Sitz bath"
+            ],
+            "diet_recom": [
+                "Aghziya Sāliha (Nutritious diets producing good humours",
+                "Diets producing the causative humou"
+            ],
+            "diet_restrict": [],
+            "prevention": [
+                "Avoid coitu"
+            ]
+        },
+        {
+            "disease_eng": [
+                "Amenorrhoe"
+            ],
+            "disease_persian": [
+                "Ihtibās-i Tam"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "cessation of menstrual flow during reproductive life of a woman except before menarche, after menopause, during pregnancy and lactatio",
+                "cessation of mense"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Qillat-i Dam (Anaemia",
+                "Ghilzat-i Dam (Increased blood viscosity",
+                "uterine displacemen",
+                "healed uterine ulcers resulting in vascular obstructio",
+                "obstruction at the openings of uterine vessel",
+                "imperforated hyme",
+                "obesity resulting in pressure on vessels",
+                "malnutritio",
+                "excess of Fasd (Bloodletting",
+                "exercis"
+            ],
+            "principle_of_treatment": [
+                "Tawlīd-i Dam (Haemopoiesis) in case of Qillat-i Dam",
+                "Tanqiya-i Akhlāt Ghalīza (Evacuation of viscous humours",
+                "Taltīf-i Khilt (Thinning of humour",
+                "Taftīh-i Afwāh-i Urūq (Deobstruction of vascular openings",
+                "Tahzīl (Emaciation) in case of obesit",
+                "Surgical intervention in case of imperforated hyme"
+            ],
+            "pharmacotherapy": [
+                "Ābzan (Sitz bath) with decoction of the following drugs3: Shibit (Anethum sowa, Kurz.), Marzanjosh (Oliganum vulgare, Linn.), Fodanj (Mentha piperita, Linn.), Sudāb (Ruta graveolens, Linn.), Bābūna (Matricaria chamomilla, Linn.), Iklīl al-Malik (Pod of Trigonella uncata, Linn.",
+                "Oral administration of decoction of Karafs (Apium graveolens, Linn.) and Mishkatrāmashī ‘ (Ziziphora tenuior, Linn.) along with hone",
+                "Oral administration of decoction of Fodanj (Mentha piperita, Linn.), along with Mā’ al-‘As",
+                "Oral administration of decoction of the following drugs along with honey4: Karafs (Apium graveolens, Linn.), Anīsūn (Pimpinella anisum, Linn.), Bādiyān (Foeniculum vulgare, Gaertn.), Pudīna Kūhī (Mentha arvensis, Linn.), Pudīna Nahrī (Mentha aquatica, Linn.)",
+                "Oral administration of Hiltīt (Ferula assafoetida, Linn.) 3.5 gm., along with Mā’ al-‘As",
+                "Bakhūr (Fumigation) with Hanzal (Citrullus colocynthis, Schard.",
+                "Firzaja (Pessary) containing following ingredients2: Āb-i Sudāb (Juice of fresh Ruta graveolens, Linn.), Āb-i Pudīna (Juice of fresh Mentha piperita, Linn.)"
+            ],
+            "comp_drug": [
+                "Habb Mudir",
+                "Safūf Mudirr-i Hayz",
+                "Roghan-i Bābūn",
+                "Sharbat-i Fawlā",
+                "Safūf Muhazzi",
+                "Sharbat-i Afsantī"
+            ],
+            "reg_theropy": [
+                "Fasd-i Sāfin (Bloodletting through saphenous vein",
+                "Hammām Murattib (Moistness producing bath",
+                "Hijāma (Cupping) on calf"
+            ],
+            "diet_recom": [
+                "Aghziya Muwallid-i Dam in case of Qillat-i Da"
+            ],
+            "diet_restrict": [
+                "Taqlīl-i Ghizā (Dietary control) in case of obesit"
+            ],
+            "prevention": []
+        },
+        {
+            "disease_eng": [
+                "Hypomenorrhoe"
+            ],
+            "disease_persian": [
+                "Qillat-i Tam"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "decreased blood flow during menstrual period and is considered a type of Ihtibās-i Hay",
+                "decreased quantity of menstrual bloo"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Qillat-i Dam (Anaemia",
+                "Ghilzat-i Dam (Increased blood viscosity",
+                "uterine displacemen",
+                "healed uterine ulcers resulting in vascular obstructio",
+                "bstruction at the openings of uterine vessel",
+                "imperforated hyme",
+                "obesity resulting in pressure on vessel",
+                "malnutritio",
+                "excess of Fasd (Venesection",
+                "exercis"
+            ],
+            "principle_of_treatment": [
+                "Tawlīd-i Dam (Haemopoiesis) in case of Qillat-i Da",
+                "Tanqiya-i Akhlāt Ghalīza (Evacuation of viscous humours",
+                "Taltīf-i Khilt (Improving the liquidity of humour",
+                "Taftīh-i Afwāh-i Urūq (Deobstruction of vascular openings",
+                "Tahzīl (Inducing emaciation) in case of obesit",
+                "Surgical intervention in case of imperforated hyme"
+            ],
+            "pharmacotherapy": [
+                "bzan (Sitz bath) with the decoction of following drugs3: Shibit (Anethum sowa, Kurz.), Marzanjosh (Oliganum vulgare, Linn.), Fodanj (Mentha piperita, Linn.), Sudāb (Ruta graveolens, Linn.), Bābūna (Matricaria chamomilla, Linn.), Iklīl al-Malik (Pod of Trigonella uncata, Linn.",
+                "Karafs (Apium graveolens, Linn.), Mishkatrāmashī ‘ (Ziziphora tenuior, Linn.)",
+                "Oral administration of the decoction of Fodanj (Mentha piperita, Linn.), along with Mā’ al-‘As",
+                "Karafs (Apium graveolens, Linn.), Anīsūn (Pimpinella anisum, Linn.), Bādiyān (Foeniculum vulgare, Gaertn.), Pudīna Kūhī (Mentha arvensis, Linn.), Pudīna Nahrī (Mentha aquatica, Linn.",
+                "Oral administration of Hiltīt (Ferula assafoetida, Linn.) 3.5 gm. along with  Mā’ al-‘As",
+                "Bakhūr (Fumigation) with Hanzal (Citrullus colocynthis, Schard.",
+                "Firzaja (Pessary) containing following ingredients1: Āb-i Sudāb (Juice of fresh Ruta graveolens, Linn.), Āb-i Pudīna (Juice of fresh Mentha piperita, Linn."
+            ],
+            "comp_drug": [
+                "Habb Mudir",
+                "Safūf Mudirr-i Hay",
+                "Roghan-i Bābūna",
+                "Sharbat-i Fawlā",
+                "Safūf Muhazzi",
+                "Sharbat-i Afsantīn"
+            ],
+            "reg_theropy": [
+                "Fasd-i Sāfin (Bloodletting through saphenous vein",
+                "Hammām Murattib (Moistness producing bath",
+                "Hijāma (Cupping) on cal"
+            ],
+            "diet_recom": [
+                "Aghziya Muwallid-i Dam in case of Qillat-i Da"
+            ],
+            "diet_restrict": [
+                "Taqlīl-i Ghizā (Dietary control) in case of obesit"
+            ],
+            "prevention": []
+        },
+        {
+            "disease_eng": [
+                "Dysmenorrhoe"
+            ],
+            "disease_persian": [
+                "Usr-i Tams"
+            ],
+            "disease_urdu": [],
+            "disease_urdu_roman": [],
+            "disease_arabic": [],
+            "disease_hindi": [],
+            "disease_description": [],
+            "symptom_eng": [
+                "painful menstruatio",
+                "painful menstruatio"
+            ],
+            "symptom_persian": [],
+            "symptom_urdu": [],
+            "symptom_urdu_roman": [],
+            "symptom_arabic": [],
+            "symptom_hindi": [],
+            "symptom_description": [],
+            "cause_eng": [],
+            "cause_persian": [],
+            "cause_urdu": [],
+            "cause_urdu_roman": [],
+            "cause_arabic": [],
+            "cause_hindi": [],
+            "cause_description": [
+                "Qillat-i Tams and Ihtibās-i Tam"
+            ],
+            "principle_of_treatment": [
+                "Tawlīd-i Dam (Haemopoiesis) in case of Qillat-i Da",
+                "Tanqiya-i Akhlāt Ghalīza (Evacuation of viscous humours",
+                "Taltīf-i Khilt (Dilution of humour",
+                "Taftīh-i Afwāh-i Urūq (Deobstruction of vascular openings",
+                "Tahzīl (Emaciation) in case of obesit",
+                "Surgical intervention in case of imperforated hyme"
+            ],
+            "pharmacotherapy": [
+                "Ābzan (Sitz bath) with the decoction of following drugs4: Shibit (Anethum sowa, Kurz.), Marzanjosh (Oliganum vulgare, Linn.), Fodanj (Mentha piperita, Linn.), Sudāb (Ruta graveolens, Linn.), Bābūna (Matricaria chamomilla, Linn.), Iklīl al-Malik (Pod of Trigonella uncata, Linn.)",
+                "Oral administration of the decoction of Karafs (Apium graveolens, Linn.) and Mishkatrāmashī ‘(Ziziphora tenuior, Linn.) along with honey.5",
+                "Oral administration of the decoction of Fodanj (Mentha piperita, Linn.) along with Mā’ al-‘As",
+                "Oral administration of the decoction of following drugs along with honey5: Karafs (Apium graveolens, Linn.), Anīsūn (Pimpinella anisum, Linn.), Bādiyān (Foeniculum vulgare, Gaertn.), Pudīna Kūhī (Mentha arvensis, Linn.), Pudīna Nahrī (Mentha aquatica, Linn.)",
+                "Oral administration of Hiltīt (Ferula assafoetida, Linn.) 3.5 gm. along with Mā’ al-‘A",
+                "Bakhūr (Fumigation) with Hanzal (Citrullus colocynthis, Schard.",
+                "Āb-i Sudāb (Juice of fresh Ruta graveolens, Linn.), Āb-i Pudīna (Juice of fresh Mentha piperita, Linn.)."
+            ],
+            "comp_drug": [
+                "Habb Mudir",
+                "Safūf Mudirr-i Hay",
+                "Sharbat-i Fawlā",
+                "Safūf Muhazzi",
+                "Sharbat-i Afsantī"
+            ],
+            "reg_theropy": [
+                "Fasd-i Sāfin (Bloodletting through saphenous vein",
+                "Hammām Murattib (Moistness producing bath",
+                "Hijāma (Cupping) on cal"
+            ],
+            "diet_recom": [
+                "Aghziya Muwallid-i Dam in case of Qillat-i Da"
+            ],
+            "diet_restrict": [
+                "Taqlīl-i Ghizā (Dietary control) in case of obesit"
+            ],
+            "prevention": []
+        }
+    ]
+}
